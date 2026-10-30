@@ -1,0 +1,4611 @@
+/storage/emulated/12/Apktool_M/novavpn_v4.6.6.0(30071366)_base_src/novavpn_v4.6.6.0(30071366)_src_aligned.apk
+
+Binary APK
+Package name=com.novavpn id=7f
+  type anim id=01 entryCount=14
+    resource 0x7f01000a anim/abc_tooltip_enter PUBLIC
+      () (file) res/anim/abc_tooltip_enter.xml type=XML
+    resource 0x7f01000b anim/abc_tooltip_exit PUBLIC
+      () (file) res/anim/abc_tooltip_exit.xml type=XML
+    resource 0x7f01000c anim/btn_checkbox_to_checked_box_inner_merged_animation PUBLIC
+      () (file) res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml type=XML
+    resource 0x7f01000d anim/btn_checkbox_to_checked_box_outer_merged_animation PUBLIC
+      () (file) res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml type=XML
+    resource 0x7f01000e anim/btn_checkbox_to_checked_icon_null_animation PUBLIC
+      () (file) res/anim/btn_checkbox_to_checked_icon_null_animation.xml type=XML
+    resource 0x7f01000f anim/btn_checkbox_to_unchecked_box_inner_merged_animation PUBLIC
+      () (file) res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml type=XML
+    resource 0x7f010010 anim/btn_checkbox_to_unchecked_check_path_merged_animation PUBLIC
+      () (file) res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml type=XML
+    resource 0x7f010011 anim/btn_checkbox_to_unchecked_icon_null_animation PUBLIC
+      () (file) res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml type=XML
+    resource 0x7f010012 anim/btn_radio_to_off_mtrl_dot_group_animation PUBLIC
+      () (file) res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml type=XML
+    resource 0x7f010013 anim/btn_radio_to_off_mtrl_ring_outer_animation PUBLIC
+      () (file) res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml type=XML
+    resource 0x7f010014 anim/btn_radio_to_off_mtrl_ring_outer_path_animation PUBLIC
+      () (file) res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml type=XML
+    resource 0x7f010015 anim/btn_radio_to_on_mtrl_dot_group_animation PUBLIC
+      () (file) res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml type=XML
+    resource 0x7f010016 anim/btn_radio_to_on_mtrl_ring_outer_animation PUBLIC
+      () (file) res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml type=XML
+    resource 0x7f010017 anim/btn_radio_to_on_mtrl_ring_outer_path_animation PUBLIC
+      () (file) res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml type=XML
+  type attr id=03 entryCount=387
+    resource 0x7f030000 attr/actionBarDivider PUBLIC
+      () (attr) type=reference
+    resource 0x7f030001 attr/actionBarItemBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f030002 attr/actionBarPopupTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f030003 attr/actionBarSize PUBLIC
+      () (attr) type=dimension|enum size=1
+        wrap_content(0x7f0800e3)=0x00000000
+    resource 0x7f030004 attr/actionBarSplitStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030005 attr/actionBarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030006 attr/actionBarTabBarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030007 attr/actionBarTabStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030008 attr/actionBarTabTextStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030009 attr/actionBarTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f03000a attr/actionBarWidgetTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f03000b attr/actionButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03000c attr/actionDropDownStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03000d attr/actionLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f03000e attr/actionMenuTextAppearance PUBLIC
+      () (attr) type=reference
+    resource 0x7f03000f attr/actionMenuTextColor PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030010 attr/actionModeBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f030011 attr/actionModeCloseButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030012 attr/actionModeCloseContentDescription PUBLIC
+      () (attr) type=string
+    resource 0x7f030013 attr/actionModeCloseDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f030014 attr/actionModeCopyDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f030015 attr/actionModeCutDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f030016 attr/actionModeFindDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f030017 attr/actionModePasteDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f030018 attr/actionModePopupWindowStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030019 attr/actionModeSelectAllDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03001a attr/actionModeShareDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03001b attr/actionModeSplitBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03001c attr/actionModeStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03001d attr/actionModeTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f03001e attr/actionModeWebSearchDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03001f attr/actionOverflowButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030020 attr/actionOverflowMenuStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030021 attr/actionProviderClass PUBLIC
+      () (attr) type=string
+    resource 0x7f030022 attr/actionViewClass PUBLIC
+      () (attr) type=string
+    resource 0x7f030023 attr/activityAction PUBLIC
+      () (attr) type=string
+    resource 0x7f030024 attr/activityChooserViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030025 attr/activityName PUBLIC
+      () (attr) type=string
+    resource 0x7f030026 attr/adjustable PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030027 attr/alertDialogButtonGroupStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030028 attr/alertDialogCenterButtons PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030029 attr/alertDialogStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03002a attr/alertDialogTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f03002b attr/allowDividerAbove PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03002c attr/allowDividerAfterLastItem PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03002d attr/allowDividerBelow PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03002e attr/allowStacking PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03002f attr/alpha PUBLIC
+      () (attr) type=float
+    resource 0x7f030030 attr/alphabeticModifiers PUBLIC
+      () (attr) type=flags size=6
+        ALT(0x7f080000)=0x00000002
+        CTRL(0x7f080001)=0x00001000
+        FUNCTION(0x7f080002)=0x00000008
+        META(0x7f080003)=0x00010000
+        SHIFT(0x7f080004)=0x00000001
+        SYM(0x7f080005)=0x00000004
+    resource 0x7f030031 attr/alwaysExpand PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030032 attr/animationBackgroundColor PUBLIC
+      () (attr) type=color
+    resource 0x7f030033 attr/arrowHeadLength PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030034 attr/arrowShaftLength PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030035 attr/autoCompleteTextViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030036 attr/autoSizeMaxTextSize PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030037 attr/autoSizeMinTextSize PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030038 attr/autoSizePresetSizes PUBLIC
+      () (attr) type=reference
+    resource 0x7f030039 attr/autoSizeStepGranularity PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03003a attr/autoSizeTextType PUBLIC
+      () (attr) type=enum size=2
+        none(0x7f080081)=0x00000000
+        uniform(0x7f0800d9)=0x00000001
+    resource 0x7f03003b attr/background PUBLIC
+      () (attr) type=reference
+    resource 0x7f03003c attr/backgroundSplit PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f03003d attr/backgroundStacked PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f03003e attr/backgroundTint PUBLIC
+      () (attr) type=color
+    resource 0x7f03003f attr/backgroundTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f030040 attr/barLength PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030041 attr/borderlessButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030042 attr/buttonBarButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030043 attr/buttonBarNegativeButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030044 attr/buttonBarNeutralButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030045 attr/buttonBarPositiveButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030046 attr/buttonBarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030047 attr/buttonCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030048 attr/buttonGravity PUBLIC
+      () (attr) type=flags size=3
+        bottom(0x7f080045)=0x00000050
+        center_vertical(0x7f08004f)=0x00000010
+        top(0x7f0800d0)=0x00000030
+    resource 0x7f030049 attr/buttonIconDimen PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03004a attr/buttonPanelSideLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f03004b attr/buttonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03004c attr/buttonStyleSmall PUBLIC
+      () (attr) type=reference
+    resource 0x7f03004d attr/buttonTint PUBLIC
+      () (attr) type=color
+    resource 0x7f03004e attr/buttonTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f03004f attr/checkBoxPreferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030050 attr/checkMarkCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030051 attr/checkMarkTint PUBLIC
+      () (attr) type=color
+    resource 0x7f030052 attr/checkMarkTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f030053 attr/checkboxStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030054 attr/checkedTextViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030055 attr/clearTop PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030056 attr/closeIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f030057 attr/closeItemLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f030058 attr/collapseContentDescription PUBLIC
+      () (attr) type=string
+    resource 0x7f030059 attr/collapseIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f03005a attr/color PUBLIC
+      () (attr) type=color
+    resource 0x7f03005b attr/colorAccent PUBLIC
+      () (attr) type=color
+    resource 0x7f03005c attr/colorBackgroundFloating PUBLIC
+      () (attr) type=color
+    resource 0x7f03005d attr/colorButtonNormal PUBLIC
+      () (attr) type=color
+    resource 0x7f03005e attr/colorControlActivated PUBLIC
+      () (attr) type=color
+    resource 0x7f03005f attr/colorControlHighlight PUBLIC
+      () (attr) type=color
+    resource 0x7f030060 attr/colorControlNormal PUBLIC
+      () (attr) type=color
+    resource 0x7f030061 attr/colorError PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030062 attr/colorPrimary PUBLIC
+      () (attr) type=color
+    resource 0x7f030063 attr/colorPrimaryDark PUBLIC
+      () (attr) type=color
+    resource 0x7f030064 attr/colorSwitchThumbNormal PUBLIC
+      () (attr) type=color
+    resource 0x7f030065 attr/commitIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f030066 attr/contentDescription PUBLIC
+      () (attr) type=string
+    resource 0x7f030067 attr/contentInsetEnd PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030068 attr/contentInsetEndWithActions PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030069 attr/contentInsetLeft PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03006a attr/contentInsetRight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03006b attr/contentInsetStart PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03006c attr/contentInsetStartWithNavigation PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03006d attr/controlBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03006e attr/coordinatorLayoutStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03006f attr/customNavigationLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f030070 attr/defaultQueryHint PUBLIC
+      () (attr) type=string
+    resource 0x7f030071 attr/defaultValue PUBLIC
+      () (attr) type=reference|string|integer|boolean|float
+    resource 0x7f030072 attr/dependency PUBLIC
+      () (attr) type=string
+    resource 0x7f030073 attr/dialogCornerRadius PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030074 attr/dialogIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f030075 attr/dialogLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f030076 attr/dialogMessage PUBLIC
+      () (attr) type=string
+    resource 0x7f030077 attr/dialogPreferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030078 attr/dialogPreferredPadding PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030079 attr/dialogTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f03007a attr/dialogTitle PUBLIC
+      () (attr) type=string
+    resource 0x7f03007b attr/disableDependentsState PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03007c attr/displayOptions PUBLIC
+      () (attr) type=flags size=7
+        disableHome(0x7f08005d)=0x00000020
+        homeAsUp(0x7f08006d)=0x00000004
+        none(0x7f080081)=0x00000000
+        showCustom(0x7f0800aa)=0x00000010
+        showHome(0x7f0800ab)=0x00000002
+        showTitle(0x7f0800ac)=0x00000008
+        useLogo(0x7f0800db)=0x00000001
+    resource 0x7f03007d attr/divider PUBLIC
+      () (attr) type=reference
+    resource 0x7f03007e attr/dividerHorizontal PUBLIC
+      () (attr) type=reference
+    resource 0x7f03007f attr/dividerPadding PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030080 attr/dividerVertical PUBLIC
+      () (attr) type=reference
+    resource 0x7f030081 attr/drawableBottomCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030082 attr/drawableEndCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030083 attr/drawableLeftCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030084 attr/drawableRightCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030085 attr/drawableSize PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030086 attr/drawableStartCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030087 attr/drawableTint PUBLIC
+      () (attr) type=color
+    resource 0x7f030088 attr/drawableTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f030089 attr/drawableTopCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f03008a attr/drawerArrowStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03008b attr/dropDownListViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03008c attr/dropdownListPreferredItemHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03008d attr/dropdownPreferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03008e attr/editTextBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03008f attr/editTextColor PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030090 attr/editTextPreferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030091 attr/editTextStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030092 attr/elevation PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030093 attr/emojiCompatEnabled PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030094 attr/enableCopying PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030095 attr/enabled PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030096 attr/entries PUBLIC
+      () (attr) type=reference
+    resource 0x7f030097 attr/entryValues PUBLIC
+      () (attr) type=reference
+    resource 0x7f030098 attr/expandActivityOverflowButtonDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f030099 attr/fastScrollEnabled PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03009a attr/fastScrollHorizontalThumbDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03009b attr/fastScrollHorizontalTrackDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03009c attr/fastScrollVerticalThumbDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03009d attr/fastScrollVerticalTrackDrawable PUBLIC
+      () (attr) type=reference
+    resource 0x7f03009e attr/finishPrimaryWithPlaceholder PUBLIC
+      () (attr) type=enum size=2
+        adjacent(0x7f08003b)=0x00000002
+        always(0x7f08003e)=0x00000001
+    resource 0x7f03009f attr/finishPrimaryWithSecondary PUBLIC
+      () (attr) type=enum size=3
+        adjacent(0x7f08003b)=0x00000002
+        always(0x7f08003e)=0x00000001
+        never(0x7f080080)=0x00000000
+    resource 0x7f0300a0 attr/finishSecondaryWithPrimary PUBLIC
+      () (attr) type=enum size=3
+        adjacent(0x7f08003b)=0x00000002
+        always(0x7f08003e)=0x00000001
+        never(0x7f080080)=0x00000000
+    resource 0x7f0300a1 attr/firstBaselineToTopHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300a2 attr/font PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300a3 attr/fontFamily PUBLIC
+      () (attr) type=string
+    resource 0x7f0300a4 attr/fontProviderAuthority PUBLIC
+      () (attr) type=string
+    resource 0x7f0300a5 attr/fontProviderCerts PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300a6 attr/fontProviderFallbackQuery PUBLIC
+      () (attr) type=string
+    resource 0x7f0300a7 attr/fontProviderFetchStrategy PUBLIC
+      () (attr) type=enum size=2
+        async(0x7f080042)=0x00000001
+        blocking(0x7f080044)=0x00000000
+    resource 0x7f0300a8 attr/fontProviderFetchTimeout PUBLIC
+      () (attr) type=integer|enum size=1
+        forever(0x7f080066)=0xffffffff
+    resource 0x7f0300a9 attr/fontProviderPackage PUBLIC
+      () (attr) type=string
+    resource 0x7f0300aa attr/fontProviderQuery PUBLIC
+      () (attr) type=string
+    resource 0x7f0300ab attr/fontProviderSystemFontFamily PUBLIC
+      () (attr) type=string
+    resource 0x7f0300ac attr/fontStyle PUBLIC
+      () (attr) type=enum size=2
+        italic(0x7f080074)=0x00000001
+        normal(0x7f080082)=0x00000000
+    resource 0x7f0300ad attr/fontVariationSettings PUBLIC
+      () (attr) type=string
+    resource 0x7f0300ae attr/fontWeight PUBLIC
+      () (attr) type=integer
+    resource 0x7f0300af attr/fragment PUBLIC
+      () (attr) type=string
+    resource 0x7f0300b0 attr/gapBetweenBars PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300b1 attr/goIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300b2 attr/height PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300b3 attr/hideOnContentScroll PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300b4 attr/homeAsUpIndicator PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300b5 attr/homeLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300b6 attr/icon PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300b7 attr/iconSpaceReserved PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300b8 attr/iconTint PUBLIC
+      () (attr) type=color
+    resource 0x7f0300b9 attr/iconTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f0300ba attr/iconifiedByDefault PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300bb attr/imageButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300bc attr/indeterminateProgressStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300bd attr/initialActivityCount PUBLIC
+      () (attr) type=string
+    resource 0x7f0300be attr/initialExpandedChildrenCount PUBLIC
+      () (attr) type=integer
+    resource 0x7f0300bf attr/isLightTheme PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300c0 attr/isPreferenceVisible PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300c1 attr/itemPadding PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300c2 attr/key PUBLIC
+      () (attr) type=string
+    resource 0x7f0300c3 attr/keylines PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300c4 attr/lStar PUBLIC
+      () (attr) type=float
+    resource 0x7f0300c5 attr/lastBaselineToBottomHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300c6 attr/layout PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300c7 attr/layoutManager PUBLIC
+      () (attr) type=string
+    resource 0x7f0300c8 attr/layout_anchor PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300c9 attr/layout_anchorGravity PUBLIC
+      () (attr) type=flags size=14
+        bottom(0x7f080045)=0x00000050
+        center(0x7f08004d)=0x00000011
+        center_horizontal(0x7f08004e)=0x00000001
+        center_vertical(0x7f08004f)=0x00000010
+        clip_horizontal(0x7f080053)=0x00000008
+        clip_vertical(0x7f080054)=0x00000080
+        end(0x7f080060)=0x00800005
+        fill(0x7f080063)=0x00000077
+        fill_horizontal(0x7f080064)=0x00000007
+        fill_vertical(0x7f080065)=0x00000070
+        left(0x7f080076)=0x00000003
+        right(0x7f080092)=0x00000005
+        start(0x7f0800b4)=0x00800003
+        top(0x7f0800d0)=0x00000030
+    resource 0x7f0300ca attr/layout_behavior PUBLIC
+      () (attr) type=string
+    resource 0x7f0300cb attr/layout_dodgeInsetEdges PUBLIC
+      () (attr) type=flags size=8
+        all(0x7f08003d)=0x00000077
+        bottom(0x7f080045)=0x00000050
+        end(0x7f080060)=0x00800005
+        left(0x7f080076)=0x00000003
+        none(0x7f080081)=0x00000000
+        right(0x7f080092)=0x00000005
+        start(0x7f0800b4)=0x00800003
+        top(0x7f0800d0)=0x00000030
+    resource 0x7f0300cc attr/layout_insetEdge PUBLIC
+      () (attr) type=enum size=7
+        bottom(0x7f080045)=0x00000050
+        end(0x7f080060)=0x00800005
+        left(0x7f080076)=0x00000003
+        none(0x7f080081)=0x00000000
+        right(0x7f080092)=0x00000005
+        start(0x7f0800b4)=0x00800003
+        top(0x7f0800d0)=0x00000030
+    resource 0x7f0300cd attr/layout_keyline PUBLIC
+      () (attr) type=integer
+    resource 0x7f0300ce attr/lineHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300cf attr/listChoiceBackgroundIndicator PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d0 attr/listChoiceIndicatorMultipleAnimated PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d1 attr/listChoiceIndicatorSingleAnimated PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d2 attr/listDividerAlertDialog PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d3 attr/listItemLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d4 attr/listLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d5 attr/listMenuViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d6 attr/listPopupWindowStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300d7 attr/listPreferredItemHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300d8 attr/listPreferredItemHeightLarge PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300d9 attr/listPreferredItemHeightSmall PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300da attr/listPreferredItemPaddingEnd PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300db attr/listPreferredItemPaddingLeft PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300dc attr/listPreferredItemPaddingRight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300dd attr/listPreferredItemPaddingStart PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300de attr/logo PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300df attr/logoDescription PUBLIC
+      () (attr) type=string
+    resource 0x7f0300e0 attr/maxButtonHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300e1 attr/maxHeight PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300e2 attr/maxWidth PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300e3 attr/measureWithLargestChild PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300e4 attr/menu PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300e5 attr/min PUBLIC
+      () (attr) type=integer
+    resource 0x7f0300e6 attr/multiChoiceItemLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300e7 attr/navigationContentDescription PUBLIC
+      () (attr) type=string
+    resource 0x7f0300e8 attr/navigationIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300e9 attr/navigationMode PUBLIC
+      () (attr) type=enum size=3
+        listMode(0x7f080079)=0x00000001
+        normal(0x7f080082)=0x00000000
+        tabMode(0x7f0800b8)=0x00000002
+    resource 0x7f0300ea attr/negativeButtonText PUBLIC
+      () (attr) type=string
+    resource 0x7f0300eb attr/nestedScrollViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300ec attr/numericModifiers PUBLIC
+      () (attr) type=flags size=6
+        ALT(0x7f080000)=0x00000002
+        CTRL(0x7f080001)=0x00001000
+        FUNCTION(0x7f080002)=0x00000008
+        META(0x7f080003)=0x00010000
+        SHIFT(0x7f080004)=0x00000001
+        SYM(0x7f080005)=0x00000004
+    resource 0x7f0300ed attr/order PUBLIC
+      () (attr) type=integer
+    resource 0x7f0300ee attr/orderingFromXml PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300ef attr/overlapAnchor PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300f0 attr/paddingBottomNoButtons PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300f1 attr/paddingEnd PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300f2 attr/paddingStart PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300f3 attr/paddingTopNoTitle PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300f4 attr/panelBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300f5 attr/panelMenuListTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300f6 attr/panelMenuListWidth PUBLIC
+      () (attr) type=dimension
+    resource 0x7f0300f7 attr/persistent PUBLIC
+      () (attr) type=boolean
+    resource 0x7f0300f8 attr/placeholderActivityName PUBLIC
+      () (attr) type=string
+    resource 0x7f0300f9 attr/popupMenuStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300fa attr/popupTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300fb attr/popupWindowStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300fc attr/positiveButtonText PUBLIC
+      () (attr) type=string
+    resource 0x7f0300fd attr/preferenceCategoryStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300fe attr/preferenceCategoryTitleTextAppearance PUBLIC
+      () (attr) type=reference
+    resource 0x7f0300ff attr/preferenceCategoryTitleTextColor PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030100 attr/preferenceFragmentCompatStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030101 attr/preferenceFragmentListStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030102 attr/preferenceFragmentStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030103 attr/preferenceInformationStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030104 attr/preferenceScreenStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030105 attr/preferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030106 attr/preferenceTheme PUBLIC
+      () (attr) type=reference
+    resource 0x7f030107 attr/preserveIconSpacing PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030108 attr/primaryActivityName PUBLIC
+      () (attr) type=string
+    resource 0x7f030109 attr/progressBarPadding PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03010a attr/progressBarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03010b attr/queryBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03010c attr/queryHint PUBLIC
+      () (attr) type=string
+    resource 0x7f03010d attr/queryPatterns PUBLIC
+      () (attr) type=reference
+    resource 0x7f03010e attr/radioButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03010f attr/ratingBarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030110 attr/ratingBarStyleIndicator PUBLIC
+      () (attr) type=reference
+    resource 0x7f030111 attr/ratingBarStyleSmall PUBLIC
+      () (attr) type=reference
+    resource 0x7f030112 attr/reverseLayout PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030113 attr/searchHintIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f030114 attr/searchIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f030115 attr/searchViewStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030116 attr/secondaryActivityAction PUBLIC
+      () (attr) type=string
+    resource 0x7f030117 attr/secondaryActivityName PUBLIC
+      () (attr) type=string
+    resource 0x7f030118 attr/seekBarIncrement PUBLIC
+      () (attr) type=integer
+    resource 0x7f030119 attr/seekBarPreferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03011a attr/seekBarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03011b attr/selectable PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03011c attr/selectableItemBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03011d attr/selectableItemBackgroundBorderless PUBLIC
+      () (attr) type=reference
+    resource 0x7f03011e attr/shortcutMatchRequired PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03011f attr/shouldDisableView PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030120 attr/showAsAction PUBLIC
+      () (attr) type=flags size=5
+        always(0x7f08003e)=0x00000002
+        collapseActionView(0x7f080055)=0x00000008
+        ifRoom(0x7f080071)=0x00000001
+        never(0x7f080080)=0x00000000
+        withText(0x7f0800e2)=0x00000004
+    resource 0x7f030121 attr/showDividers PUBLIC
+      () (attr) type=flags size=4
+        beginning(0x7f080043)=0x00000001
+        end(0x7f080060)=0x00000004
+        middle(0x7f08007e)=0x00000002
+        none(0x7f080081)=0x00000000
+    resource 0x7f030122 attr/showSeekBarValue PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030123 attr/showText PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030124 attr/showTitle PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030125 attr/singleChoiceItemLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f030126 attr/singleLineTitle PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030127 attr/spanCount PUBLIC
+      () (attr) type=integer
+    resource 0x7f030128 attr/spinBars PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030129 attr/spinnerDropDownItemStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03012a attr/spinnerStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03012b attr/splitLayoutDirection PUBLIC
+      () (attr) type=enum size=5
+        bottomToTop(0x7f080046)=0x00000004
+        locale(0x7f08007b)=0x00000000
+        ltr(0x7f08007c)=0x00000001
+        rtl(0x7f080095)=0x00000002
+        topToBottom(0x7f0800d2)=0x00000003
+    resource 0x7f03012c attr/splitMaxAspectRatioInLandscape PUBLIC
+      () (attr) type=float|enum size=2
+        alwaysAllow(0x7f08003f)=0x00000000
+        alwaysDisallow(0x7f080040)=0xffffffff
+    resource 0x7f03012d attr/splitMaxAspectRatioInPortrait PUBLIC
+      () (attr) type=float|enum size=2
+        alwaysAllow(0x7f08003f)=0x00000000
+        alwaysDisallow(0x7f080040)=0xffffffff
+    resource 0x7f03012e attr/splitMinHeightDp PUBLIC
+      () (attr) type=integer
+    resource 0x7f03012f attr/splitMinSmallestWidthDp PUBLIC
+      () (attr) type=integer
+    resource 0x7f030130 attr/splitMinWidthDp PUBLIC
+      () (attr) type=integer
+    resource 0x7f030131 attr/splitRatio PUBLIC
+      () (attr) type=float
+    resource 0x7f030132 attr/splitTrack PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030133 attr/srcCompat PUBLIC
+      () (attr) type=reference
+    resource 0x7f030134 attr/stackFromEnd PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030135 attr/state_above_anchor PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030136 attr/statusBarBackground PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030137 attr/stickyPlaceholder PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030138 attr/subMenuArrow PUBLIC
+      () (attr) type=reference
+    resource 0x7f030139 attr/submitBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03013a attr/subtitle PUBLIC
+      () (attr) type=string
+    resource 0x7f03013b attr/subtitleTextAppearance PUBLIC
+      () (attr) type=reference
+    resource 0x7f03013c attr/subtitleTextColor PUBLIC
+      () (attr) type=color
+    resource 0x7f03013d attr/subtitleTextStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03013e attr/suggestionRowLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f03013f attr/summary PUBLIC
+      () (attr) type=string
+    resource 0x7f030140 attr/summaryOff PUBLIC
+      () (attr) type=string
+    resource 0x7f030141 attr/summaryOn PUBLIC
+      () (attr) type=string
+    resource 0x7f030142 attr/switchMinWidth PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030143 attr/switchPadding PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030144 attr/switchPreferenceCompatStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030145 attr/switchPreferenceStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030146 attr/switchStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030147 attr/switchTextAppearance PUBLIC
+      () (attr) type=reference
+    resource 0x7f030148 attr/switchTextOff PUBLIC
+      () (attr) type=string
+    resource 0x7f030149 attr/switchTextOn PUBLIC
+      () (attr) type=string
+    resource 0x7f03014a attr/tag PUBLIC
+      () (attr) type=string
+    resource 0x7f03014b attr/textAllCaps PUBLIC
+      () (attr) type=reference|boolean
+    resource 0x7f03014c attr/textAppearanceLargePopupMenu PUBLIC
+      () (attr) type=reference
+    resource 0x7f03014d attr/textAppearanceListItem PUBLIC
+      () (attr) type=reference
+    resource 0x7f03014e attr/textAppearanceListItemSecondary PUBLIC
+      () (attr) type=reference
+    resource 0x7f03014f attr/textAppearanceListItemSmall PUBLIC
+      () (attr) type=reference
+    resource 0x7f030150 attr/textAppearancePopupMenuHeader PUBLIC
+      () (attr) type=reference
+    resource 0x7f030151 attr/textAppearanceSearchResultSubtitle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030152 attr/textAppearanceSearchResultTitle PUBLIC
+      () (attr) type=reference
+    resource 0x7f030153 attr/textAppearanceSmallPopupMenu PUBLIC
+      () (attr) type=reference
+    resource 0x7f030154 attr/textColorAlertDialogListItem PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030155 attr/textColorSearchUrl PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f030156 attr/textLocale PUBLIC
+      () (attr) type=string
+    resource 0x7f030157 attr/theme PUBLIC
+      () (attr) type=reference
+    resource 0x7f030158 attr/thickness PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030159 attr/thumbTextPadding PUBLIC
+      () (attr) type=dimension
+    resource 0x7f03015a attr/thumbTint PUBLIC
+      () (attr) type=color
+    resource 0x7f03015b attr/thumbTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f03015c attr/tickMark PUBLIC
+      () (attr) type=reference
+    resource 0x7f03015d attr/tickMarkTint PUBLIC
+      () (attr) type=color
+    resource 0x7f03015e attr/tickMarkTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f03015f attr/tint PUBLIC
+      () (attr) type=color
+    resource 0x7f030160 attr/tintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f030161 attr/title PUBLIC
+      () (attr) type=string
+    resource 0x7f030162 attr/titleMargin PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030163 attr/titleMarginBottom PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030164 attr/titleMarginEnd PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030165 attr/titleMarginStart PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030166 attr/titleMarginTop PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030167 attr/titleMargins PUBLIC
+      () (attr) type=dimension
+    resource 0x7f030168 attr/titleTextAppearance PUBLIC
+      () (attr) type=reference
+    resource 0x7f030169 attr/titleTextColor PUBLIC
+      () (attr) type=color
+    resource 0x7f03016a attr/titleTextStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03016b attr/toolbarNavigationButtonStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03016c attr/toolbarStyle PUBLIC
+      () (attr) type=reference
+    resource 0x7f03016d attr/tooltipForegroundColor PUBLIC
+      () (attr) type=reference|color
+    resource 0x7f03016e attr/tooltipFrameBackground PUBLIC
+      () (attr) type=reference
+    resource 0x7f03016f attr/tooltipText PUBLIC
+      () (attr) type=string
+    resource 0x7f030170 attr/track PUBLIC
+      () (attr) type=reference
+    resource 0x7f030171 attr/trackTint PUBLIC
+      () (attr) type=color
+    resource 0x7f030172 attr/trackTintMode PUBLIC
+      () (attr) type=enum size=6
+        add(0x7f08003a)=0x00000010
+        multiply(0x7f08007f)=0x0000000e
+        screen(0x7f080098)=0x0000000f
+        src_atop(0x7f0800b1)=0x00000009
+        src_in(0x7f0800b2)=0x00000005
+        src_over(0x7f0800b3)=0x00000003
+    resource 0x7f030173 attr/ttcIndex PUBLIC
+      () (attr) type=integer
+    resource 0x7f030174 attr/updatesContinuously PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030175 attr/useSimpleSummaryProvider PUBLIC
+      () (attr) type=boolean
+    resource 0x7f030176 attr/viewInflaterClass PUBLIC
+      () (attr) type=string
+    resource 0x7f030177 attr/voiceIcon PUBLIC
+      () (attr) type=reference
+    resource 0x7f030178 attr/widgetLayout PUBLIC
+      () (attr) type=reference
+    resource 0x7f030179 attr/windowActionBar PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03017a attr/windowActionBarOverlay PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03017b attr/windowActionModeOverlay PUBLIC
+      () (attr) type=boolean
+    resource 0x7f03017c attr/windowFixedHeightMajor PUBLIC
+      () (attr) type=dimension|fraction
+    resource 0x7f03017d attr/windowFixedHeightMinor PUBLIC
+      () (attr) type=dimension|fraction
+    resource 0x7f03017e attr/windowFixedWidthMajor PUBLIC
+      () (attr) type=dimension|fraction
+    resource 0x7f03017f attr/windowFixedWidthMinor PUBLIC
+      () (attr) type=dimension|fraction
+    resource 0x7f030180 attr/windowMinWidthMajor PUBLIC
+      () (attr) type=dimension|fraction
+    resource 0x7f030181 attr/windowMinWidthMinor PUBLIC
+      () (attr) type=dimension|fraction
+    resource 0x7f030182 attr/windowNoTitle PUBLIC
+      () (attr) type=boolean
+  type bool id=04 entryCount=1
+    resource 0x7f040002 bool/config_materialPreferenceIconSpaceReserved PUBLIC
+      () false
+      (sw360dp) true
+  type color id=05 entryCount=20
+    resource 0x7f050013 color/abc_tint_btn_checkable PUBLIC
+      () (file) res/color/abc_tint_btn_checkable.xml type=XML
+    resource 0x7f050014 color/abc_tint_default PUBLIC
+      () (file) res/color/abc_tint_default.xml type=XML
+    resource 0x7f050015 color/abc_tint_edittext PUBLIC
+      () (file) res/color/abc_tint_edittext.xml type=XML
+    resource 0x7f050016 color/abc_tint_seek_thumb PUBLIC
+      () (file) res/color/abc_tint_seek_thumb.xml type=XML
+    resource 0x7f050017 color/abc_tint_spinner PUBLIC
+      () (file) res/color/abc_tint_spinner.xml type=XML
+    resource 0x7f050018 color/abc_tint_switch_track PUBLIC
+      () (file) res/color/abc_tint_switch_track.xml type=XML
+    resource 0x7f050019 color/accent_material_dark PUBLIC
+      () @color/material_deep_teal_200
+    resource 0x7f05001a color/accent_material_light PUBLIC
+      () @color/material_deep_teal_500
+    resource 0x7f05001b color/androidx_core_ripple_material_light PUBLIC
+      () #1f000000
+    resource 0x7f05001c color/androidx_core_secondary_text_default_material_light PUBLIC
+      () #8a000000
+    resource 0x7f05002d color/call_notification_answer_color PUBLIC
+      () #ff1d873b
+    resource 0x7f05002e color/call_notification_decline_color PUBLIC
+      () #ffd93025
+    resource 0x7f050033 color/error_color_material_dark PUBLIC
+      () #ffff7043
+    resource 0x7f050034 color/error_color_material_light PUBLIC
+      () #ffff5722
+    resource 0x7f05003c color/material_deep_teal_200 PUBLIC
+      () #ff80cbc4
+    resource 0x7f05003d color/material_deep_teal_500 PUBLIC
+      () #ff008577
+    resource 0x7f050045 color/notification_action_color_filter PUBLIC
+      () @color/androidx_core_secondary_text_default_material_light
+    resource 0x7f050046 color/notification_icon_bg_color PUBLIC
+      () #ff9e9e9e
+    resource 0x7f05005c color/tooltip_background_dark PUBLIC
+      () #e6616161
+    resource 0x7f05005d color/tooltip_background_light PUBLIC
+      () #e6ffffff
+  type dimen id=06 entryCount=60
+    resource 0x7f06000c dimen/abc_action_bar_subtitle_top_margin_material PUBLIC
+      () 16777213.000000dp
+    resource 0x7f060012 dimen/abc_button_inset_horizontal_material PUBLIC
+      () @dimen/abc_control_inset_material
+    resource 0x7f060013 dimen/abc_button_inset_vertical_material PUBLIC
+      () 6.000000dp
+    resource 0x7f060014 dimen/abc_button_padding_horizontal_material PUBLIC
+      () 8.000000dp
+    resource 0x7f060015 dimen/abc_button_padding_vertical_material PUBLIC
+      () @dimen/abc_control_padding_material
+    resource 0x7f060016 dimen/abc_cascading_menus_min_smallest_width PUBLIC
+      () 720.000000dp
+    resource 0x7f060017 dimen/abc_config_prefDialogWidth PUBLIC
+      () 320.000000dp
+      (sw600dp) 580.000000dp
+      (large) 440.000000dp
+    resource 0x7f060018 dimen/abc_control_corner_material PUBLIC
+      () 2.000000dp
+    resource 0x7f060019 dimen/abc_control_inset_material PUBLIC
+      () 4.000000dp
+    resource 0x7f06001a dimen/abc_control_padding_material PUBLIC
+      () 4.000000dp
+    resource 0x7f060029 dimen/abc_dropdownitem_icon_width PUBLIC
+      () 32.000000dp
+    resource 0x7f06002a dimen/abc_dropdownitem_text_padding_left PUBLIC
+      () 8.000000dp
+    resource 0x7f06002b dimen/abc_dropdownitem_text_padding_right PUBLIC
+      () 8.000000dp
+    resource 0x7f06002c dimen/abc_edit_text_inset_bottom_material PUBLIC
+      () 7.000000dp
+    resource 0x7f06002d dimen/abc_edit_text_inset_horizontal_material PUBLIC
+      () 4.000000dp
+    resource 0x7f06002e dimen/abc_edit_text_inset_top_material PUBLIC
+      () 10.000000dp
+    resource 0x7f060035 dimen/abc_progress_bar_height_material PUBLIC
+      () 4.000000dp
+    resource 0x7f060036 dimen/abc_search_view_preferred_height PUBLIC
+      () 48.000000dp
+    resource 0x7f060037 dimen/abc_search_view_preferred_width PUBLIC
+      () 320.000000dp
+    resource 0x7f06003b dimen/abc_star_big PUBLIC
+      () 48.000000dp
+    resource 0x7f06003c dimen/abc_star_medium PUBLIC
+      () 36.000000dp
+    resource 0x7f06003d dimen/abc_star_small PUBLIC
+      () 16.000000dp
+    resource 0x7f060051 dimen/browser_actions_context_menu_max_width PUBLIC
+      () 500.000000dp
+    resource 0x7f060052 dimen/browser_actions_context_menu_min_padding PUBLIC
+      () 20.000000dp
+    resource 0x7f060053 dimen/compat_button_inset_horizontal_material PUBLIC
+      () 4.000000dp
+    resource 0x7f060054 dimen/compat_button_inset_vertical_material PUBLIC
+      () 6.000000dp
+    resource 0x7f060055 dimen/compat_button_padding_horizontal_material PUBLIC
+      () 8.000000dp
+    resource 0x7f060056 dimen/compat_button_padding_vertical_material PUBLIC
+      () 4.000000dp
+    resource 0x7f060057 dimen/compat_control_corner_material PUBLIC
+      () 2.000000dp
+    resource 0x7f06005c dimen/fastscroll_default_thickness PUBLIC
+      () 8.000000dp
+    resource 0x7f06005d dimen/fastscroll_margin PUBLIC
+      () 0.000000dp
+    resource 0x7f06005e dimen/fastscroll_minimum_range PUBLIC
+      () 50.000000dp
+    resource 0x7f060066 dimen/item_touch_helper_max_drag_scroll_per_frame PUBLIC
+      () 20.000000dp
+    resource 0x7f060067 dimen/item_touch_helper_swipe_escape_max_velocity PUBLIC
+      () 800.000000dp
+    resource 0x7f060068 dimen/item_touch_helper_swipe_escape_velocity PUBLIC
+      () 120.000000dp
+    resource 0x7f060069 dimen/notification_action_icon_size PUBLIC
+      () 32.000000dp
+    resource 0x7f06006a dimen/notification_action_text_size PUBLIC
+      () 13.000000sp
+    resource 0x7f06006b dimen/notification_big_circle_margin PUBLIC
+      () 12.000000dp
+    resource 0x7f06006c dimen/notification_content_margin_start PUBLIC
+      () 0.000000dp
+    resource 0x7f06006d dimen/notification_large_icon_height PUBLIC
+      () 64.000000dp
+    resource 0x7f06006e dimen/notification_large_icon_width PUBLIC
+      () 64.000000dp
+    resource 0x7f06006f dimen/notification_main_column_padding_top PUBLIC
+      () 0.000000dp
+    resource 0x7f060070 dimen/notification_media_narrow_margin PUBLIC
+      () 12.000000dp
+    resource 0x7f060071 dimen/notification_right_icon_size PUBLIC
+      () 16.000000dp
+    resource 0x7f060072 dimen/notification_right_side_padding_top PUBLIC
+      () 4.000000dp
+    resource 0x7f060073 dimen/notification_small_icon_background_padding PUBLIC
+      () 3.000000dp
+    resource 0x7f060074 dimen/notification_small_icon_size_as_large PUBLIC
+      () 24.000000dp
+    resource 0x7f060075 dimen/notification_subtext_size PUBLIC
+      () 13.000000sp
+    resource 0x7f060076 dimen/notification_top_pad PUBLIC
+      () 10.000000dp
+    resource 0x7f060077 dimen/notification_top_pad_large_text PUBLIC
+      () 5.000000dp
+    resource 0x7f06007d dimen/preferences_detail_width PUBLIC
+      () 300.000000dp
+    resource 0x7f06007e dimen/preferences_header_width PUBLIC
+      () 384.000000dp
+    resource 0x7f06007f dimen/tooltip_corner_radius PUBLIC
+      () 2.000000dp
+    resource 0x7f060080 dimen/tooltip_horizontal_padding PUBLIC
+      () 16.000000dp
+    resource 0x7f060081 dimen/tooltip_margin PUBLIC
+      () 8.000000dp
+    resource 0x7f060082 dimen/tooltip_precise_anchor_extra_offset PUBLIC
+      () 8.000000dp
+    resource 0x7f060083 dimen/tooltip_precise_anchor_threshold PUBLIC
+      () 96.000000dp
+    resource 0x7f060084 dimen/tooltip_vertical_padding PUBLIC
+      () 6.500000dp
+    resource 0x7f060085 dimen/tooltip_y_offset_non_touch PUBLIC
+      () 0.000000dp
+    resource 0x7f060086 dimen/tooltip_y_offset_touch PUBLIC
+      () 16.000000dp
+  type drawable id=07 entryCount=82
+    resource 0x7f070000 drawable/abc_ab_share_pack_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png type=PNG
+    resource 0x7f070002 drawable/abc_btn_borderless_material PUBLIC
+      () (file) res/drawable/abc_btn_borderless_material.xml type=XML
+    resource 0x7f070003 drawable/abc_btn_check_material PUBLIC
+      () (file) res/drawable/abc_btn_check_material.xml type=XML
+    resource 0x7f070004 drawable/abc_btn_check_material_anim PUBLIC
+      () (file) res/drawable/abc_btn_check_material_anim.xml type=XML
+    resource 0x7f070005 drawable/abc_btn_check_to_on_mtrl_000 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png type=PNG
+    resource 0x7f070006 drawable/abc_btn_check_to_on_mtrl_015 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png type=PNG
+    resource 0x7f070007 drawable/abc_btn_colored_material PUBLIC
+      () (file) res/drawable/abc_btn_colored_material.xml type=XML
+    resource 0x7f070008 drawable/abc_btn_default_mtrl_shape PUBLIC
+      () (file) res/drawable/abc_btn_default_mtrl_shape.xml type=XML
+    resource 0x7f070009 drawable/abc_btn_radio_material PUBLIC
+      () (file) res/drawable/abc_btn_radio_material.xml type=XML
+    resource 0x7f07000a drawable/abc_btn_radio_material_anim PUBLIC
+      () (file) res/drawable/abc_btn_radio_material_anim.xml type=XML
+    resource 0x7f07000b drawable/abc_btn_radio_to_on_mtrl_000 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png type=PNG
+    resource 0x7f07000c drawable/abc_btn_radio_to_on_mtrl_015 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png type=PNG
+    resource 0x7f07000d drawable/abc_btn_switch_to_on_mtrl_00001 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png type=PNG
+    resource 0x7f07000e drawable/abc_btn_switch_to_on_mtrl_00012 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png type=PNG
+    resource 0x7f07000f drawable/abc_cab_background_internal_bg PUBLIC
+      () (file) res/drawable/abc_cab_background_internal_bg.xml type=XML
+    resource 0x7f070010 drawable/abc_cab_background_top_material PUBLIC
+      () (file) res/drawable/abc_cab_background_top_material.xml type=XML
+    resource 0x7f070011 drawable/abc_cab_background_top_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png type=PNG
+    resource 0x7f070013 drawable/abc_dialog_material_background PUBLIC
+      () (file) res/drawable/abc_dialog_material_background.xml type=XML
+      (watch) (file) res/drawable-watch/abc_dialog_material_background.xml type=XML
+    resource 0x7f070014 drawable/abc_edit_text_material PUBLIC
+      () (file) res/drawable/abc_edit_text_material.xml type=XML
+    resource 0x7f070018 drawable/abc_ic_commit_search_api_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png type=PNG
+    resource 0x7f07001a drawable/abc_ic_menu_copy_mtrl_am_alpha PUBLIC
+      () (file) res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml type=XML
+    resource 0x7f07001b drawable/abc_ic_menu_cut_mtrl_alpha PUBLIC
+      () (file) res/drawable/abc_ic_menu_cut_mtrl_alpha.xml type=XML
+    resource 0x7f07001d drawable/abc_ic_menu_paste_mtrl_am_alpha PUBLIC
+      () (file) res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml type=XML
+    resource 0x7f07001e drawable/abc_ic_menu_selectall_mtrl_alpha PUBLIC
+      () (file) res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml type=XML
+    resource 0x7f07001f drawable/abc_ic_menu_share_mtrl_alpha PUBLIC
+      () (file) res/drawable/abc_ic_menu_share_mtrl_alpha.xml type=XML
+    resource 0x7f070024 drawable/abc_list_divider_material PUBLIC
+      () (file) res/drawable/abc_list_divider_material.xml type=XML
+    resource 0x7f070025 drawable/abc_list_divider_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png type=PNG
+    resource 0x7f070030 drawable/abc_menu_hardkey_panel_mtrl_mult PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png type=PNG
+    resource 0x7f070031 drawable/abc_popup_background_mtrl_mult PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png type=PNG
+    resource 0x7f070032 drawable/abc_ratingbar_indicator_material PUBLIC
+      () (file) res/drawable/abc_ratingbar_indicator_material.xml type=XML
+    resource 0x7f070033 drawable/abc_ratingbar_material PUBLIC
+      () (file) res/drawable/abc_ratingbar_material.xml type=XML
+    resource 0x7f070034 drawable/abc_ratingbar_small_material PUBLIC
+      () (file) res/drawable/abc_ratingbar_small_material.xml type=XML
+    resource 0x7f070035 drawable/abc_scrubber_control_off_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png type=PNG
+    resource 0x7f070036 drawable/abc_scrubber_control_to_pressed_mtrl_000 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png type=PNG
+    resource 0x7f070037 drawable/abc_scrubber_control_to_pressed_mtrl_005 PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png type=PNG
+    resource 0x7f070038 drawable/abc_scrubber_primary_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png type=PNG
+    resource 0x7f070039 drawable/abc_scrubber_track_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png type=PNG
+    resource 0x7f07003a drawable/abc_seekbar_thumb_material PUBLIC
+      () (file) res/drawable/abc_seekbar_thumb_material.xml type=XML
+    resource 0x7f07003b drawable/abc_seekbar_tick_mark_material PUBLIC
+      () (file) res/drawable/abc_seekbar_tick_mark_material.xml type=XML
+    resource 0x7f07003c drawable/abc_seekbar_track_material PUBLIC
+      () (file) res/drawable/abc_seekbar_track_material.xml type=XML
+    resource 0x7f07003d drawable/abc_spinner_mtrl_am_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (ldrtl-mdpi) (file) res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (ldrtl-hdpi) (file) res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (ldrtl-xhdpi) (file) res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (ldrtl-xxhdpi) (file) res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+      (ldrtl-xxxhdpi) (file) res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png type=PNG
+    resource 0x7f07003e drawable/abc_spinner_textfield_background_material PUBLIC
+      () (file) res/drawable/abc_spinner_textfield_background_material.xml type=XML
+    resource 0x7f07003f drawable/abc_star_black_48dp PUBLIC
+      () (file) res/drawable/abc_star_black_48dp.xml type=XML
+    resource 0x7f070040 drawable/abc_star_half_black_48dp PUBLIC
+      () (file) res/drawable/abc_star_half_black_48dp.xml type=XML
+    resource 0x7f070041 drawable/abc_switch_thumb_material PUBLIC
+      () (file) res/drawable/abc_switch_thumb_material.xml type=XML
+    resource 0x7f070042 drawable/abc_switch_track_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png type=PNG
+    resource 0x7f070043 drawable/abc_tab_indicator_material PUBLIC
+      () (file) res/drawable/abc_tab_indicator_material.xml type=XML
+    resource 0x7f070044 drawable/abc_tab_indicator_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png type=PNG
+    resource 0x7f070045 drawable/abc_text_cursor_material PUBLIC
+      () (file) res/drawable/abc_text_cursor_material.xml type=XML
+    resource 0x7f070046 drawable/abc_text_select_handle_left_mtrl PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_text_select_handle_left_mtrl.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_text_select_handle_left_mtrl.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_text_select_handle_left_mtrl.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_text_select_handle_left_mtrl.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl.png type=PNG
+    resource 0x7f070047 drawable/abc_text_select_handle_middle_mtrl PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_text_select_handle_middle_mtrl.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_text_select_handle_middle_mtrl.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_text_select_handle_middle_mtrl.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl.png type=PNG
+    resource 0x7f070048 drawable/abc_text_select_handle_right_mtrl PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_text_select_handle_right_mtrl.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_text_select_handle_right_mtrl.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_text_select_handle_right_mtrl.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_text_select_handle_right_mtrl.png type=PNG
+      (xxxhdpi) (file) res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl.png type=PNG
+    resource 0x7f070049 drawable/abc_textfield_activated_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png type=PNG
+    resource 0x7f07004a drawable/abc_textfield_default_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png type=PNG
+    resource 0x7f07004b drawable/abc_textfield_search_activated_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png type=PNG
+    resource 0x7f07004c drawable/abc_textfield_search_default_mtrl_alpha PUBLIC
+      (mdpi) (file) res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png type=PNG
+      (xxhdpi) (file) res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png type=PNG
+    resource 0x7f07004d drawable/abc_textfield_search_material PUBLIC
+      () (file) res/drawable/abc_textfield_search_material.xml type=XML
+    resource 0x7f07004e drawable/abc_vector_test PUBLIC
+      () (file) res/drawable/abc_vector_test.xml type=XML
+    resource 0x7f07004f drawable/btn_checkbox_checked_mtrl PUBLIC
+      () (file) res/drawable/btn_checkbox_checked_mtrl.xml type=XML
+    resource 0x7f070050 drawable/btn_checkbox_checked_to_unchecked_mtrl_animation PUBLIC
+      () (file) res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml type=XML
+    resource 0x7f070051 drawable/btn_checkbox_unchecked_mtrl PUBLIC
+      () (file) res/drawable/btn_checkbox_unchecked_mtrl.xml type=XML
+    resource 0x7f070052 drawable/btn_checkbox_unchecked_to_checked_mtrl_animation PUBLIC
+      () (file) res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml type=XML
+    resource 0x7f070053 drawable/btn_radio_off_mtrl PUBLIC
+      () (file) res/drawable/btn_radio_off_mtrl.xml type=XML
+    resource 0x7f070054 drawable/btn_radio_off_to_on_mtrl_animation PUBLIC
+      () (file) res/drawable/btn_radio_off_to_on_mtrl_animation.xml type=XML
+    resource 0x7f070055 drawable/btn_radio_on_mtrl PUBLIC
+      () (file) res/drawable/btn_radio_on_mtrl.xml type=XML
+    resource 0x7f070056 drawable/btn_radio_on_to_off_mtrl_animation PUBLIC
+      () (file) res/drawable/btn_radio_on_to_off_mtrl_animation.xml type=XML
+    resource 0x7f07005e drawable/launch_background PUBLIC
+      () (file) res/drawable/launch_background.xml type=XML
+    resource 0x7f07005f drawable/notification_action_background PUBLIC
+      () (file) res/drawable/notification_action_background.xml type=XML
+    resource 0x7f070060 drawable/notification_bg PUBLIC
+      () (file) res/drawable/notification_bg.xml type=XML
+    resource 0x7f070061 drawable/notification_bg_low PUBLIC
+      () (file) res/drawable/notification_bg_low.xml type=XML
+    resource 0x7f070062 drawable/notification_bg_low_normal PUBLIC
+      (mdpi) (file) res/drawable-mdpi/notification_bg_low_normal.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/notification_bg_low_normal.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/notification_bg_low_normal.9.png type=PNG
+    resource 0x7f070063 drawable/notification_bg_low_pressed PUBLIC
+      (mdpi) (file) res/drawable-mdpi/notification_bg_low_pressed.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/notification_bg_low_pressed.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/notification_bg_low_pressed.9.png type=PNG
+    resource 0x7f070064 drawable/notification_bg_normal PUBLIC
+      (mdpi) (file) res/drawable-mdpi/notification_bg_normal.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/notification_bg_normal.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/notification_bg_normal.9.png type=PNG
+    resource 0x7f070065 drawable/notification_bg_normal_pressed PUBLIC
+      (mdpi) (file) res/drawable-mdpi/notification_bg_normal_pressed.9.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/notification_bg_normal_pressed.9.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/notification_bg_normal_pressed.9.png type=PNG
+    resource 0x7f070066 drawable/notification_icon_background PUBLIC
+      () (file) res/drawable/notification_icon_background.xml type=XML
+    resource 0x7f070067 drawable/notification_oversize_large_icon_bg PUBLIC
+      (hdpi) (file) res/drawable-hdpi/notification_oversize_large_icon_bg.png type=PNG
+    resource 0x7f070068 drawable/notification_template_icon_bg PUBLIC
+      () #3333b5e5
+    resource 0x7f070069 drawable/notification_template_icon_low_bg PUBLIC
+      () #0cffffff
+    resource 0x7f07006a drawable/notification_tile_bg PUBLIC
+      () (file) res/drawable/notification_tile_bg.xml type=XML
+    resource 0x7f07006b drawable/notify_panel_notification_icon_bg PUBLIC
+      (mdpi) (file) res/drawable-mdpi/notify_panel_notification_icon_bg.png type=PNG
+      (hdpi) (file) res/drawable-hdpi/notify_panel_notification_icon_bg.png type=PNG
+      (xhdpi) (file) res/drawable-xhdpi/notify_panel_notification_icon_bg.png type=PNG
+    resource 0x7f07006e drawable/tooltip_frame_dark PUBLIC
+      () (file) res/drawable/tooltip_frame_dark.xml type=XML
+    resource 0x7f07006f drawable/tooltip_frame_light PUBLIC
+      () (file) res/drawable/tooltip_frame_light.xml type=XML
+  type id id=08 entryCount=228
+    resource 0x7f080000 id/ALT PUBLIC
+      () (id)
+    resource 0x7f080001 id/CTRL PUBLIC
+      () (id)
+    resource 0x7f080002 id/FUNCTION PUBLIC
+      () (id)
+    resource 0x7f080003 id/META PUBLIC
+      () (id)
+    resource 0x7f080004 id/SHIFT PUBLIC
+      () (id)
+    resource 0x7f080005 id/SYM PUBLIC
+      () (id)
+    resource 0x7f080006 id/accessibility_action_clickable_span PUBLIC
+      () (id)
+    resource 0x7f080007 id/accessibility_custom_action_0 PUBLIC
+      () (id)
+    resource 0x7f080008 id/accessibility_custom_action_1 PUBLIC
+      () (id)
+    resource 0x7f080009 id/accessibility_custom_action_10 PUBLIC
+      () (id)
+    resource 0x7f08000a id/accessibility_custom_action_11 PUBLIC
+      () (id)
+    resource 0x7f08000b id/accessibility_custom_action_12 PUBLIC
+      () (id)
+    resource 0x7f08000c id/accessibility_custom_action_13 PUBLIC
+      () (id)
+    resource 0x7f08000d id/accessibility_custom_action_14 PUBLIC
+      () (id)
+    resource 0x7f08000e id/accessibility_custom_action_15 PUBLIC
+      () (id)
+    resource 0x7f08000f id/accessibility_custom_action_16 PUBLIC
+      () (id)
+    resource 0x7f080010 id/accessibility_custom_action_17 PUBLIC
+      () (id)
+    resource 0x7f080011 id/accessibility_custom_action_18 PUBLIC
+      () (id)
+    resource 0x7f080012 id/accessibility_custom_action_19 PUBLIC
+      () (id)
+    resource 0x7f080013 id/accessibility_custom_action_2 PUBLIC
+      () (id)
+    resource 0x7f080014 id/accessibility_custom_action_20 PUBLIC
+      () (id)
+    resource 0x7f080015 id/accessibility_custom_action_21 PUBLIC
+      () (id)
+    resource 0x7f080016 id/accessibility_custom_action_22 PUBLIC
+      () (id)
+    resource 0x7f080017 id/accessibility_custom_action_23 PUBLIC
+      () (id)
+    resource 0x7f080018 id/accessibility_custom_action_24 PUBLIC
+      () (id)
+    resource 0x7f080019 id/accessibility_custom_action_25 PUBLIC
+      () (id)
+    resource 0x7f08001a id/accessibility_custom_action_26 PUBLIC
+      () (id)
+    resource 0x7f08001b id/accessibility_custom_action_27 PUBLIC
+      () (id)
+    resource 0x7f08001c id/accessibility_custom_action_28 PUBLIC
+      () (id)
+    resource 0x7f08001d id/accessibility_custom_action_29 PUBLIC
+      () (id)
+    resource 0x7f08001e id/accessibility_custom_action_3 PUBLIC
+      () (id)
+    resource 0x7f08001f id/accessibility_custom_action_30 PUBLIC
+      () (id)
+    resource 0x7f080020 id/accessibility_custom_action_31 PUBLIC
+      () (id)
+    resource 0x7f080021 id/accessibility_custom_action_4 PUBLIC
+      () (id)
+    resource 0x7f080022 id/accessibility_custom_action_5 PUBLIC
+      () (id)
+    resource 0x7f080023 id/accessibility_custom_action_6 PUBLIC
+      () (id)
+    resource 0x7f080024 id/accessibility_custom_action_7 PUBLIC
+      () (id)
+    resource 0x7f080025 id/accessibility_custom_action_8 PUBLIC
+      () (id)
+    resource 0x7f080026 id/accessibility_custom_action_9 PUBLIC
+      () (id)
+    resource 0x7f080027 id/action_bar PUBLIC
+      () (id)
+    resource 0x7f080028 id/action_bar_activity_content PUBLIC
+      () (id)
+    resource 0x7f080029 id/action_bar_container PUBLIC
+      () (id)
+    resource 0x7f08002a id/action_bar_root PUBLIC
+      () (id)
+    resource 0x7f08002b id/action_bar_spinner PUBLIC
+      () (id)
+    resource 0x7f08002c id/action_bar_subtitle PUBLIC
+      () (id)
+    resource 0x7f08002d id/action_bar_title PUBLIC
+      () (id)
+    resource 0x7f08002e id/action_container PUBLIC
+      () (id)
+    resource 0x7f08002f id/action_context_bar PUBLIC
+      () (id)
+    resource 0x7f080030 id/action_divider PUBLIC
+      () (id)
+    resource 0x7f080031 id/action_image PUBLIC
+      () (id)
+    resource 0x7f080032 id/action_menu_divider PUBLIC
+      () (id)
+    resource 0x7f080033 id/action_menu_presenter PUBLIC
+      () (id)
+    resource 0x7f080034 id/action_mode_bar PUBLIC
+      () (id)
+    resource 0x7f080035 id/action_mode_bar_stub PUBLIC
+      () (id)
+    resource 0x7f080036 id/action_mode_close_button PUBLIC
+      () (id)
+    resource 0x7f080037 id/action_text PUBLIC
+      () (id)
+    resource 0x7f080038 id/actions PUBLIC
+      () (id)
+    resource 0x7f080039 id/activity_chooser_view_content PUBLIC
+      () (id)
+    resource 0x7f08003a id/add PUBLIC
+      () (id)
+    resource 0x7f08003b id/adjacent PUBLIC
+      () (id)
+    resource 0x7f08003c id/alertTitle PUBLIC
+      () (id)
+    resource 0x7f08003d id/all PUBLIC
+      () (id)
+    resource 0x7f08003e id/always PUBLIC
+      () (id)
+    resource 0x7f08003f id/alwaysAllow PUBLIC
+      () (id)
+    resource 0x7f080040 id/alwaysDisallow PUBLIC
+      () (id)
+    resource 0x7f080041 id/androidx_window_activity_scope PUBLIC
+      () (id)
+    resource 0x7f080042 id/async PUBLIC
+      () (id)
+    resource 0x7f080043 id/beginning PUBLIC
+      () (id)
+    resource 0x7f080044 id/blocking PUBLIC
+      () (id)
+    resource 0x7f080045 id/bottom PUBLIC
+      () (id)
+    resource 0x7f080046 id/bottomToTop PUBLIC
+      () (id)
+    resource 0x7f080047 id/browser_actions_header_text PUBLIC
+      () (id)
+    resource 0x7f080048 id/browser_actions_menu_item_icon PUBLIC
+      () (id)
+    resource 0x7f080049 id/browser_actions_menu_item_text PUBLIC
+      () (id)
+    resource 0x7f08004a id/browser_actions_menu_items PUBLIC
+      () (id)
+    resource 0x7f08004b id/browser_actions_menu_view PUBLIC
+      () (id)
+    resource 0x7f08004c id/buttonPanel PUBLIC
+      () (id)
+    resource 0x7f08004d id/center PUBLIC
+      () (id)
+    resource 0x7f08004e id/center_horizontal PUBLIC
+      () (id)
+    resource 0x7f08004f id/center_vertical PUBLIC
+      () (id)
+    resource 0x7f080050 id/checkbox PUBLIC
+      () (id)
+    resource 0x7f080051 id/checked PUBLIC
+      () (id)
+    resource 0x7f080052 id/chronometer PUBLIC
+      () (id)
+    resource 0x7f080053 id/clip_horizontal PUBLIC
+      () (id)
+    resource 0x7f080054 id/clip_vertical PUBLIC
+      () (id)
+    resource 0x7f080055 id/collapseActionView PUBLIC
+      () (id)
+    resource 0x7f080056 id/content PUBLIC
+      () (id)
+    resource 0x7f080057 id/contentPanel PUBLIC
+      () (id)
+    resource 0x7f080058 id/custom PUBLIC
+      () (id)
+    resource 0x7f080059 id/customPanel PUBLIC
+      () (id)
+    resource 0x7f08005a id/decor_content_parent PUBLIC
+      () (id)
+    resource 0x7f08005b id/default_activity_button PUBLIC
+      () (id)
+    resource 0x7f08005c id/dialog_button PUBLIC
+      () (id)
+    resource 0x7f08005d id/disableHome PUBLIC
+      () (id)
+    resource 0x7f08005e id/edit_query PUBLIC
+      () (id)
+    resource 0x7f08005f id/edit_text_id PUBLIC
+      () (id)
+    resource 0x7f080060 id/end PUBLIC
+      () (id)
+    resource 0x7f080061 id/expand_activities_button PUBLIC
+      () (id)
+    resource 0x7f080062 id/expanded_menu PUBLIC
+      () (id)
+    resource 0x7f080063 id/fill PUBLIC
+      () (id)
+    resource 0x7f080064 id/fill_horizontal PUBLIC
+      () (id)
+    resource 0x7f080065 id/fill_vertical PUBLIC
+      () (id)
+    resource 0x7f080066 id/forever PUBLIC
+      () (id)
+    resource 0x7f080067 id/fragment_container_view_tag PUBLIC
+      () (id)
+    resource 0x7f080068 id/ghost_view PUBLIC
+      () (id)
+    resource 0x7f080069 id/ghost_view_holder PUBLIC
+      () (id)
+    resource 0x7f08006a id/group_divider PUBLIC
+      () (id)
+    resource 0x7f08006b id/hide_ime_id PUBLIC
+      () (id)
+    resource 0x7f08006c id/home PUBLIC
+      () (id)
+    resource 0x7f08006d id/homeAsUp PUBLIC
+      () (id)
+    resource 0x7f08006e id/icon PUBLIC
+      () (id)
+    resource 0x7f08006f id/icon_frame PUBLIC
+      () (id)
+    resource 0x7f080070 id/icon_group PUBLIC
+      () (id)
+    resource 0x7f080071 id/ifRoom PUBLIC
+      () (id)
+    resource 0x7f080072 id/image PUBLIC
+      () (id)
+    resource 0x7f080073 id/info PUBLIC
+      () (id)
+    resource 0x7f080074 id/italic PUBLIC
+      () (id)
+    resource 0x7f080075 id/item_touch_helper_previous_elevation PUBLIC
+      () (id)
+    resource 0x7f080076 id/left PUBLIC
+      () (id)
+    resource 0x7f080077 id/line1 PUBLIC
+      () (id)
+    resource 0x7f080078 id/line3 PUBLIC
+      () (id)
+    resource 0x7f080079 id/listMode PUBLIC
+      () (id)
+    resource 0x7f08007a id/list_item PUBLIC
+      () (id)
+    resource 0x7f08007b id/locale PUBLIC
+      () (id)
+    resource 0x7f08007c id/ltr PUBLIC
+      () (id)
+    resource 0x7f08007d id/message PUBLIC
+      () (id)
+    resource 0x7f08007e id/middle PUBLIC
+      () (id)
+    resource 0x7f08007f id/multiply PUBLIC
+      () (id)
+    resource 0x7f080080 id/never PUBLIC
+      () (id)
+    resource 0x7f080081 id/none PUBLIC
+      () (id)
+    resource 0x7f080082 id/normal PUBLIC
+      () (id)
+    resource 0x7f080083 id/notification_background PUBLIC
+      () (id)
+    resource 0x7f080084 id/notification_main_column PUBLIC
+      () (id)
+    resource 0x7f080085 id/notification_main_column_container PUBLIC
+      () (id)
+    resource 0x7f080086 id/off PUBLIC
+      () (id)
+    resource 0x7f080087 id/on PUBLIC
+      () (id)
+    resource 0x7f080088 id/parentPanel PUBLIC
+      () (id)
+    resource 0x7f080089 id/parent_matrix PUBLIC
+      () (id)
+    resource 0x7f08008a id/preferences_detail PUBLIC
+      () (id)
+    resource 0x7f08008b id/preferences_header PUBLIC
+      () (id)
+    resource 0x7f08008c id/preferences_sliding_pane_layout PUBLIC
+      () (id)
+    resource 0x7f08008d id/progress_circular PUBLIC
+      () (id)
+    resource 0x7f08008e id/progress_horizontal PUBLIC
+      () (id)
+    resource 0x7f08008f id/radio PUBLIC
+      () (id)
+    resource 0x7f080090 id/recycler_view PUBLIC
+      () (id)
+    resource 0x7f080091 id/report_drawn PUBLIC
+      () (id)
+    resource 0x7f080092 id/right PUBLIC
+      () (id)
+    resource 0x7f080093 id/right_icon PUBLIC
+      () (id)
+    resource 0x7f080094 id/right_side PUBLIC
+      () (id)
+    resource 0x7f080095 id/rtl PUBLIC
+      () (id)
+    resource 0x7f080096 id/save_non_transition_alpha PUBLIC
+      () (id)
+    resource 0x7f080097 id/save_overlay_view PUBLIC
+      () (id)
+    resource 0x7f080098 id/screen PUBLIC
+      () (id)
+    resource 0x7f080099 id/scrollIndicatorDown PUBLIC
+      () (id)
+    resource 0x7f08009a id/scrollIndicatorUp PUBLIC
+      () (id)
+    resource 0x7f08009b id/scrollView PUBLIC
+      () (id)
+    resource 0x7f08009c id/search_badge PUBLIC
+      () (id)
+    resource 0x7f08009d id/search_bar PUBLIC
+      () (id)
+    resource 0x7f08009e id/search_button PUBLIC
+      () (id)
+    resource 0x7f08009f id/search_close_btn PUBLIC
+      () (id)
+    resource 0x7f0800a0 id/search_edit_frame PUBLIC
+      () (id)
+    resource 0x7f0800a1 id/search_go_btn PUBLIC
+      () (id)
+    resource 0x7f0800a2 id/search_mag_icon PUBLIC
+      () (id)
+    resource 0x7f0800a3 id/search_plate PUBLIC
+      () (id)
+    resource 0x7f0800a4 id/search_src_text PUBLIC
+      () (id)
+    resource 0x7f0800a5 id/search_voice_btn PUBLIC
+      () (id)
+    resource 0x7f0800a6 id/seekbar PUBLIC
+      () (id)
+    resource 0x7f0800a7 id/seekbar_value PUBLIC
+      () (id)
+    resource 0x7f0800a8 id/select_dialog_listview PUBLIC
+      () (id)
+    resource 0x7f0800a9 id/shortcut PUBLIC
+      () (id)
+    resource 0x7f0800aa id/showCustom PUBLIC
+      () (id)
+    resource 0x7f0800ab id/showHome PUBLIC
+      () (id)
+    resource 0x7f0800ac id/showTitle PUBLIC
+      () (id)
+    resource 0x7f0800ad id/spacer PUBLIC
+      () (id)
+    resource 0x7f0800ae id/special_effects_controller_view_tag PUBLIC
+      () (id)
+    resource 0x7f0800af id/spinner PUBLIC
+      () (id)
+    resource 0x7f0800b0 id/split_action_bar PUBLIC
+      () (id)
+    resource 0x7f0800b1 id/src_atop PUBLIC
+      () (id)
+    resource 0x7f0800b2 id/src_in PUBLIC
+      () (id)
+    resource 0x7f0800b3 id/src_over PUBLIC
+      () (id)
+    resource 0x7f0800b4 id/start PUBLIC
+      () (id)
+    resource 0x7f0800b5 id/submenuarrow PUBLIC
+      () (id)
+    resource 0x7f0800b6 id/submit_area PUBLIC
+      () (id)
+    resource 0x7f0800b7 id/switchWidget PUBLIC
+      () (id)
+    resource 0x7f0800b8 id/tabMode PUBLIC
+      () (id)
+    resource 0x7f0800b9 id/tag_accessibility_actions PUBLIC
+      () (id)
+    resource 0x7f0800ba id/tag_accessibility_clickable_spans PUBLIC
+      () (id)
+    resource 0x7f0800bb id/tag_accessibility_heading PUBLIC
+      () (id)
+    resource 0x7f0800bc id/tag_accessibility_pane_title PUBLIC
+      () (id)
+    resource 0x7f0800bd id/tag_compat_insets_dispatch PUBLIC
+      () (id)
+    resource 0x7f0800be id/tag_on_apply_window_listener PUBLIC
+      () (id)
+    resource 0x7f0800bf id/tag_on_receive_content_listener PUBLIC
+      () (id)
+    resource 0x7f0800c0 id/tag_on_receive_content_mime_types PUBLIC
+      () (id)
+    resource 0x7f0800c1 id/tag_screen_reader_focusable PUBLIC
+      () (id)
+    resource 0x7f0800c2 id/tag_state_description PUBLIC
+      () (id)
+    resource 0x7f0800c3 id/tag_system_bar_state_monitor PUBLIC
+      () (id)
+    resource 0x7f0800c4 id/tag_transition_group PUBLIC
+      () (id)
+    resource 0x7f0800c5 id/tag_unhandled_key_event_manager PUBLIC
+      () (id)
+    resource 0x7f0800c6 id/tag_unhandled_key_listeners PUBLIC
+      () (id)
+    resource 0x7f0800c7 id/tag_window_insets_animation_callback PUBLIC
+      () (id)
+    resource 0x7f0800c8 id/text PUBLIC
+      () (id)
+    resource 0x7f0800c9 id/text2 PUBLIC
+      () (id)
+    resource 0x7f0800ca id/textSpacerNoButtons PUBLIC
+      () (id)
+    resource 0x7f0800cb id/textSpacerNoTitle PUBLIC
+      () (id)
+    resource 0x7f0800cc id/time PUBLIC
+      () (id)
+    resource 0x7f0800cd id/title PUBLIC
+      () (id)
+    resource 0x7f0800ce id/titleDividerNoCustom PUBLIC
+      () (id)
+    resource 0x7f0800cf id/title_template PUBLIC
+      () (id)
+    resource 0x7f0800d0 id/top PUBLIC
+      () (id)
+    resource 0x7f0800d1 id/topPanel PUBLIC
+      () (id)
+    resource 0x7f0800d2 id/topToBottom PUBLIC
+      () (id)
+    resource 0x7f0800d3 id/transition_current_scene PUBLIC
+      () (id)
+    resource 0x7f0800d4 id/transition_layout_save PUBLIC
+      () (id)
+    resource 0x7f0800d5 id/transition_position PUBLIC
+      () (id)
+    resource 0x7f0800d6 id/transition_scene_layoutid_cache PUBLIC
+      () (id)
+    resource 0x7f0800d7 id/transition_transform PUBLIC
+      () (id)
+    resource 0x7f0800d8 id/unchecked PUBLIC
+      () (id)
+    resource 0x7f0800d9 id/uniform PUBLIC
+      () (id)
+    resource 0x7f0800da id/up PUBLIC
+      () (id)
+    resource 0x7f0800db id/useLogo PUBLIC
+      () (id)
+    resource 0x7f0800dc id/view_tree_disjoint_parent PUBLIC
+      () (id)
+    resource 0x7f0800dd id/view_tree_lifecycle_owner PUBLIC
+      () (id)
+    resource 0x7f0800de id/view_tree_on_back_pressed_dispatcher_owner PUBLIC
+      () (id)
+    resource 0x7f0800df id/view_tree_saved_state_registry_owner PUBLIC
+      () (id)
+    resource 0x7f0800e0 id/view_tree_view_model_store_owner PUBLIC
+      () (id)
+    resource 0x7f0800e1 id/visible_removing_fragment_view_tag PUBLIC
+      () (id)
+    resource 0x7f0800e2 id/withText PUBLIC
+      () (id)
+    resource 0x7f0800e3 id/wrap_content PUBLIC
+      () (id)
+  type integer id=09 entryCount=4
+    resource 0x7f090002 integer/cancel_button_image_alpha PUBLIC
+      () 127
+    resource 0x7f090003 integer/config_tooltipAnimTime PUBLIC
+      () 150
+    resource 0x7f090004 integer/preferences_detail_pane_weight PUBLIC
+      () 1
+    resource 0x7f090005 integer/preferences_header_pane_weight PUBLIC
+      () 0
+  type interpolator id=0a entryCount=7
+    resource 0x7f0a0000 interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0 PUBLIC
+      () (file) res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml type=XML
+    resource 0x7f0a0001 interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1 PUBLIC
+      () (file) res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml type=XML
+    resource 0x7f0a0002 interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0 PUBLIC
+      () (file) res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml type=XML
+    resource 0x7f0a0003 interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1 PUBLIC
+      () (file) res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml type=XML
+    resource 0x7f0a0004 interpolator/btn_radio_to_off_mtrl_animation_interpolator_0 PUBLIC
+      () (file) res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml type=XML
+    resource 0x7f0a0005 interpolator/btn_radio_to_on_mtrl_animation_interpolator_0 PUBLIC
+      () (file) res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml type=XML
+    resource 0x7f0a0006 interpolator/fast_out_slow_in PUBLIC
+      () (file) res/interpolator/fast_out_slow_in.xml type=XML
+  type layout id=0b entryCount=19
+    resource 0x7f0b0000 layout/abc_action_bar_title_item PUBLIC
+      () (file) res/layout/abc_action_bar_title_item.xml type=XML
+    resource 0x7f0b0002 layout/abc_action_menu_item_layout PUBLIC
+      () (file) res/layout/abc_action_menu_item_layout.xml type=XML
+    resource 0x7f0b0005 layout/abc_action_mode_close_item_material PUBLIC
+      () (file) res/layout/abc_action_mode_close_item_material.xml type=XML
+    resource 0x7f0b000b layout/abc_cascading_menu_item_layout PUBLIC
+      () (file) res/layout/abc_cascading_menu_item_layout.xml type=XML
+    resource 0x7f0b000e layout/abc_list_menu_item_checkbox PUBLIC
+      () (file) res/layout/abc_list_menu_item_checkbox.xml type=XML
+    resource 0x7f0b000f layout/abc_list_menu_item_icon PUBLIC
+      () (file) res/layout/abc_list_menu_item_icon.xml type=XML
+    resource 0x7f0b0011 layout/abc_list_menu_item_radio PUBLIC
+      () (file) res/layout/abc_list_menu_item_radio.xml type=XML
+    resource 0x7f0b0012 layout/abc_popup_menu_header_item_layout PUBLIC
+      () (file) res/layout/abc_popup_menu_header_item_layout.xml type=XML
+    resource 0x7f0b0013 layout/abc_popup_menu_item_layout PUBLIC
+      () (file) res/layout/abc_popup_menu_item_layout.xml type=XML
+    resource 0x7f0b0018 layout/abc_search_dropdown_item_icons_2line PUBLIC
+      () (file) res/layout/abc_search_dropdown_item_icons_2line.xml type=XML
+    resource 0x7f0b0019 layout/abc_search_view PUBLIC
+      () (file) res/layout/abc_search_view.xml type=XML
+    resource 0x7f0b001b layout/abc_tooltip PUBLIC
+      () (file) res/layout/abc_tooltip.xml type=XML
+    resource 0x7f0b0023 layout/notification_action PUBLIC
+      () (file) res/layout/notification_action.xml type=XML
+    resource 0x7f0b0024 layout/notification_action_tombstone PUBLIC
+      () (file) res/layout/notification_action_tombstone.xml type=XML
+    resource 0x7f0b0025 layout/notification_template_custom_big PUBLIC
+      () (file) res/layout/notification_template_custom_big.xml type=XML
+    resource 0x7f0b0026 layout/notification_template_icon_group PUBLIC
+      () (file) res/layout/notification_template_icon_group.xml type=XML
+    resource 0x7f0b0027 layout/notification_template_part_chronometer PUBLIC
+      () (file) res/layout/notification_template_part_chronometer.xml type=XML
+    resource 0x7f0b0028 layout/notification_template_part_time PUBLIC
+      () (file) res/layout/notification_template_part_time.xml type=XML
+    resource 0x7f0b0029 layout/preference PUBLIC
+      () (file) res/layout/preference.xml type=XML
+  type mipmap id=0c entryCount=1
+    resource 0x7f0c0000 mipmap/ic_launcher PUBLIC
+      (mdpi) (file) res/mipmap-mdpi/ic_launcher.png type=PNG
+      (hdpi) (file) res/mipmap-hdpi/ic_launcher.png type=PNG
+      (xhdpi) (file) res/mipmap-xhdpi/ic_launcher.png type=PNG
+      (xxhdpi) (file) res/mipmap-xxhdpi/ic_launcher.png type=PNG
+      (xxxhdpi) (file) res/mipmap-xxxhdpi/ic_launcher.png type=PNG
+  type string id=0d entryCount=31
+    resource 0x7f0d0001 string/abc_action_bar_up_description PUBLIC
+      () "Navigate up"
+      (ca) "Navega cap amunt"
+      (da) "Gå op"
+      (fa) "رفتن به بالا"
+      (ja) "前に戻る"
+      (ka) "ზემოთ გადასვლა"
+      (pa) "ਉੱਪਰ ਜਾਓ"
+      (ta) "மேலே செல்லும்"
+      (nb) "Gå opp"
+      (be) "Перайсці ўверх"
+      (de) "Nach oben"
+      (ne) "माथि नेभिगेट गर्नुहोस्"
+      (te) "పైకి నావిగేట్ చేస్తుంది"
+      (af) "Gaan op"
+      (bg) "Навигиране нагоре"
+      (th) "กลับ"
+      (fi) "Siirry ylös"
+      (hi) "वापस जाएं"
+      (si) "ඉහළට සංචාලනය කරන්න"
+      (vi) "Di chuyển lên"
+      (kk) "Жоғары қарай өту"
+      (mk) "Движи се нагоре"
+      (sk) "Prejsť nahor"
+      (uk) "Перейти вгору"
+      (el) "Πλοήγηση προς τα επάνω"
+      (gl) "Vai cara arriba"
+      (ml) "മുകളിലേക്ക് പോവുക"
+      (nl) "Omhoog navigeren"
+      (pl) "Przejdź wyżej"
+      (sl) "Pomik navzgor"
+      (tl) "Mag-navigate pataas"
+      (am) "ወደ ላይ ያስሱ"
+      (km) "រំកិលឡើងលើ"
+      (bn) "উপরে নেভিগেট করুন"
+      (in) "Kembali ke atas"
+      (kn) "ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
+      (mn) "Дээш шилжих"
+      (ko) "위로 이동"
+      (lo) "ເລື່ອນຂຶ້ນເທິງ"
+      (ro) "Navigați în sus"
+      (sq) "Ngjitu lart"
+      (ar) "التنقل إلى أعلى"
+      (fr) "Revenir en haut de la page"
+      (hr) "Natrag"
+      (mr) "वर नेव्‍हिगेट करा"
+      (or) "ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ"
+      (sr) "Идите нагоре"
+      (b+sr+Latn) "Idite nagore"
+      (tr) "Yukarı git"
+      (ur) "اوپر نیویگیٹ کریں"
+      (as) "ওপৰলৈ যাওক"
+      (bs) "Idi gore"
+      (cs) "Přejít nahoru"
+      (es) "Desplazarse hacia arriba"
+      (is) "Fara upp"
+      (ms) "Navigasi ke atas"
+      (et) "Liigu üles"
+      (it) "Torna indietro"
+      (lt) "Naršyti aukštyn"
+      (pt) "Navegar para cima"
+      (eu) "Joan gora"
+      (gu) "ઉપર નૅવિગેટ કરો"
+      (hu) "Fel"
+      (ru) "Перейти вверх"
+      (zu) "Zulazulela phezulu"
+      (lv) "Pārvietoties uz augšu"
+      (sv) "Navigera uppåt"
+      (iw) "ניווט למעלה"
+      (sw) "Sogeza juu"
+      (hy) "Անցնել վերև"
+      (ky) "Мурунку экранга өтүү"
+      (my) "အပေါ်သို့ ရွှေ့ရန်"
+      (az) "Yuxarı keçin"
+      (uz) "Yopish"
+      (en-rCA) "Navigate up"
+      (fr-rCA) "Revenir en arrière"
+      (en-rGB) "Navigate up"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‎‎‎‏‏‎‏‎‎‎‏‏‎‎‎‏‏‏‏‎‏‎‎‎‎‏‏‎‏‏‎‏‎‎‏‎‎‏‎‎‎‎‎‎‏‎‏‎‎‎‎‏‏‏‎‎‎‎‎Navigate up‎‏‎‎‏‎"
+      (zh-rHK) "向上瀏覽"
+      (zh-rCN) "转到上一层级"
+      (en-rIN) "Navigate up"
+      (pt-rBR) "Navegar para cima"
+      (es-rUS) "Navegar hacia arriba"
+      (pt-rPT) "Navegar para cima"
+      (en-rAU) "Navigate up"
+      (zh-rTW) "向上瀏覽"
+    resource 0x7f0d0006 string/abc_capital_off PUBLIC
+      () "OFF"
+      (ca) "DESACTIVA"
+      (da) "FRA"
+      (fa) "خاموش"
+      (ja) "OFF"
+      (ka) "გამორთვა"
+      (pa) "ਬੰਦ"
+      (ta) "ஆஃப்"
+      (nb) "AV"
+      (be) "ВЫКЛ."
+      (de) "AUS"
+      (ne) "निष्क्रिय"
+      (te) "ఆఫ్"
+      (af) "AF"
+      (bg) "ИЗКЛ."
+      (th) "ปิด"
+      (fi) "POIS PÄÄLTÄ"
+      (hi) "बंद"
+      (si) "ක්‍රියාවිරහිතයි"
+      (vi) "TẮT"
+      (kk) "ӨШІРУ"
+      (mk) "ИСКЛУЧЕНО"
+      (sk) "VYP."
+      (uk) "ЗНИЖКА"
+      (el) "ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"
+      (gl) "DESACTIVADO"
+      (ml) "ഓഫ്"
+      (nl) "UIT"
+      (pl) "WYŁ."
+      (sl) "IZKLOP"
+      (tl) "I-OFF"
+      (am) "አጥፋ"
+      (km) "បិទ"
+      (bn) "বন্ধ আছে"
+      (in) "NONAKTIF"
+      (kn) "ಆಫ್"
+      (mn) "ИДЭВХГҮЙ"
+      (ko) "사용 중지"
+      (lo) "ປິດ"
+      (ro) "DEZACTIVAT"
+      (sq) "JOAKTIV"
+      (ar) "إيقاف"
+      (fr) "NON"
+      (hr) "ISKLJUČENO"
+      (mr) "बंद"
+      (or) "ବନ୍ଦ"
+      (sr) "ИСКЉУЧЕНО"
+      (b+sr+Latn) "ISKLJUČENO"
+      (tr) "KAPAT"
+      (ur) "آف"
+      (as) "অফ"
+      (bs) "ISKLJUČENO"
+      (cs) "VYP"
+      (es) "DESACTIVADO"
+      (is) "SLÖKKT"
+      (ms) "MATI"
+      (et) "VÄLJAS"
+      (it) "OFF"
+      (lt) "IŠJUNGTI"
+      (pt) "DESATIVADO"
+      (eu) "DESAKTIBATU"
+      (gu) "બંધ"
+      (hu) "KI"
+      (ru) "ВЫКЛ"
+      (zu) "VALA"
+      (lv) "IZSLĒGT"
+      (sv) "AV"
+      (iw) "כבוי"
+      (sw) "IMEZIMWA"
+      (hy) "ԱՆՋԱՏԵԼ"
+      (ky) "ӨЧҮК"
+      (my) "ပိတ်"
+      (az) "DEAKTİV"
+      (uz) "YOQILMAGAN"
+      (en-rCA) "OFF"
+      (fr-rCA) "DÉSACTIVER"
+      (en-rGB) "OFF"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‏‎‎‎‎‎‏‎‎‎‏‏‏‎‏‏‎‎‏‏‎‏‏‎‏‎‎‎‎‎‏‏‎‏‎‏‏‎‏‏‏‎‎‏‎‎‏‏‎‎‏‏‏‎‏‏‎OFF‎‏‎‎‏‎"
+      (zh-rHK) "關閉"
+      (zh-rCN) "关闭"
+      (en-rIN) "OFF"
+      (pt-rBR) "DESATIVADO"
+      (es-rUS) "DESACTIVAR"
+      (pt-rPT) "DESATIVADO"
+      (en-rAU) "OFF"
+      (zh-rTW) "關閉"
+    resource 0x7f0d0007 string/abc_capital_on PUBLIC
+      () "ON"
+      (ca) "ACTIVA"
+      (da) "TIL"
+      (fa) "روشن"
+      (ja) "ON"
+      (ka) "ჩართვა"
+      (pa) "ਚਾਲੂ"
+      (ta) "ஆன்"
+      (nb) "PÅ"
+      (be) "УКЛ."
+      (de) "AN"
+      (ne) "सक्रिय"
+      (te) "ఆన్"
+      (af) "AAN"
+      (bg) "ВКЛ."
+      (th) "เปิด"
+      (fi) "PÄÄLLÄ"
+      (hi) "चालू"
+      (si) "ක්‍රියාත්මකයි"
+      (vi) "BẬT"
+      (kk) "ҚОСУ"
+      (mk) "ВКЛУЧЕНО"
+      (sk) "ZAP."
+      (uk) "УВІМК."
+      (el) "ΕΝΕΡΓΟΠΟΙΗΣΗ"
+      (gl) "ACTIVADO"
+      (ml) "ഓൺ"
+      (nl) "AAN"
+      (pl) "WŁ."
+      (sl) "VKLOP"
+      (tl) "I-ON"
+      (am) "አብራ"
+      (km) "បើក"
+      (bn) "চালু করুন"
+      (in) "AKTIF"
+      (kn) "ಆನ್"
+      (mn) "ИДЭВХТЭЙ"
+      (ko) "사용"
+      (lo) "ເປີດ"
+      (ro) "ACTIVAT"
+      (sq) "AKTIV"
+      (ar) "مفعّلة"
+      (fr) "OUI"
+      (hr) "UKLJUČENO"
+      (mr) "सुरू"
+      (or) "ଚାଲୁ ଅଛି"
+      (sr) "УКЉУЧЕНО"
+      (b+sr+Latn) "UKLJUČENO"
+      (tr) "AÇ"
+      (ur) "آن"
+      (as) "অন"
+      (bs) "UKLJUČENO"
+      (cs) "ZAP"
+      (es) "ACTIVADO"
+      (is) "KVEIKT"
+      (ms) "HIDUP"
+      (et) "SEES"
+      (it) "ON"
+      (lt) "ĮJUNGTI"
+      (pt) "ATIVADO"
+      (eu) "AKTIBATU"
+      (gu) "ચાલુ"
+      (hu) "BE"
+      (ru) "ВКЛ"
+      (zu) "VULA"
+      (lv) "IESLĒGT"
+      (sv) "PÅ"
+      (iw) "מופעל"
+      (sw) "IMEWASHWA"
+      (hy) "ՄԻԱՑՆԵԼ"
+      (ky) "КҮЙҮК"
+      (my) "ဖွင့်"
+      (az) "AKTİV"
+      (uz) "YONIQ"
+      (en-rCA) "ON"
+      (fr-rCA) "ACTIVER"
+      (en-rGB) "ON"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‏‎‎‎‏‎‎‏‎‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‏‎‎‎‎‎‎‎‏‎‎‎‎‏‎‎‎‏‏‏‏‏‎‎‏‏‎‏‏‎‎‎‎ON‎‏‎‎‏‎"
+      (zh-rHK) "開啟"
+      (zh-rCN) "开启"
+      (en-rIN) "ON"
+      (pt-rBR) "ATIVADO"
+      (es-rUS) "ACTIVAR"
+      (pt-rPT) "ATIVADO"
+      (en-rAU) "ON"
+      (zh-rTW) "開啟"
+    resource 0x7f0d0008 string/abc_menu_alt_shortcut_label PUBLIC
+      () "Alt+"
+      (ca) "Alt+"
+      (da) "Alt+"
+      (fa) "‎Alt+‎"
+      (ja) "Alt+"
+      (ka) "Alt+"
+      (pa) "Alt+"
+      (ta) "Alt மற்றும்"
+      (nb) "Alt+"
+      (be) "Alt +"
+      (de) "Alt +"
+      (ne) "Alt+"
+      (te) "Alt+"
+      (af) "Alt+"
+      (bg) "Alt+"
+      (th) "Alt+"
+      (fi) "Alt+"
+      (hi) "Alt+"
+      (si) "Alt+"
+      (vi) "Alt+"
+      (kk) "Alt+"
+      (mk) "Alt+"
+      (sk) "Alt+"
+      (uk) "Alt+"
+      (el) "Alt+"
+      (gl) "Alt +"
+      (ml) "Alt+"
+      (nl) "Alt +"
+      (pl) "Alt+"
+      (sl) "Alt +"
+      (tl) "Alt+"
+      (am) "Alt+"
+      (km) "Alt+"
+      (bn) "Alt+"
+      (in) "Alt+"
+      (kn) "Alt+"
+      (mn) "Alt+"
+      (ko) "Alt+"
+      (lo) "Alt+"
+      (ro) "Alt+"
+      (sq) "Alt+"
+      (ar) "Alt+"
+      (fr) "Alt+"
+      (hr) "Alt+"
+      (mr) "Alt+"
+      (or) "Alt+"
+      (sr) "Alt+"
+      (b+sr+Latn) "Alt+"
+      (tr) "Alt+"
+      (ur) "Alt+‎"
+      (as) "Alt+"
+      (bs) "Alt+"
+      (cs) "Alt+"
+      (es) "Alt +"
+      (is) "Alt+"
+      (ms) "Alt+"
+      (et) "Alt +"
+      (it) "ALT +"
+      (lt) "„Alt“ +"
+      (pt) "Alt+"
+      (eu) "Alt +"
+      (gu) "Alt+"
+      (hu) "Alt+"
+      (ru) "Alt +"
+      (zu) "Alt+"
+      (lv) "Alternēšanas taustiņš +"
+      (sv) "Alt + "
+      (iw) "Alt+"
+      (sw) "Alt+"
+      (hy) "Alt+"
+      (ky) "Alt+"
+      (my) "Alt+"
+      (az) "Alt+"
+      (uz) "Alt+"
+      (en-rCA) "Alt+"
+      (fr-rCA) "Alt+"
+      (en-rGB) "Alt+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‎‏‏‎‎‏‏‎‏‎‏‏‎‎‎‎‎‎‎‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‎‎‏‎‏‎‎‏‏‎‎‏‏‏‏‎‏‎‎Alt+‎‏‎‎‏‎"
+      (zh-rHK) "Alt +"
+      (zh-rCN) "Alt+"
+      (en-rIN) "Alt+"
+      (pt-rBR) "Alt+"
+      (es-rUS) "Alt+"
+      (pt-rPT) "Alt +"
+      (en-rAU) "Alt+"
+      (zh-rTW) "Alt +"
+    resource 0x7f0d0009 string/abc_menu_ctrl_shortcut_label PUBLIC
+      () "Ctrl+"
+      (ca) "Ctrl+"
+      (da) "Ctrl+"
+      (fa) "‎Ctrl+‎"
+      (ja) "Ctrl+"
+      (ka) "Ctrl+"
+      (pa) "Ctrl+"
+      (ta) "Ctrl மற்றும்"
+      (nb) "Ctrl+"
+      (be) "Ctrl +"
+      (de) "Strg +"
+      (ne) "Ctrl+"
+      (te) "Ctrl+"
+      (af) "Ctrl+"
+      (bg) "Ctrl+"
+      (th) "Ctrl+"
+      (fi) "Ctrl+"
+      (hi) "Ctrl+"
+      (si) "Ctrl+"
+      (vi) "Ctrl+"
+      (kk) "Ctrl+"
+      (mk) "Ctrl+"
+      (sk) "Ctrl+"
+      (uk) "Ctrl+"
+      (el) "Ctrl+"
+      (gl) "Ctrl +"
+      (ml) "Ctrl+"
+      (nl) "Ctrl +"
+      (pl) "Ctrl+"
+      (sl) "Ctrl +"
+      (tl) "Ctrl+"
+      (am) "Ctrl+"
+      (km) "Ctrl+"
+      (bn) "Ctrl+"
+      (in) "Ctrl+"
+      (kn) "Ctrl+"
+      (mn) "Ctrl+"
+      (ko) "Ctrl+"
+      (lo) "Ctrl+"
+      (ro) "Ctrl+"
+      (sq) "Ctrl+"
+      (ar) "Ctrl+"
+      (fr) "Ctrl+"
+      (hr) "Ctrl+"
+      (mr) "Ctrl+"
+      (or) "Ctrl+"
+      (sr) "Ctrl+"
+      (b+sr+Latn) "Ctrl+"
+      (tr) "Ctrl+"
+      (ur) "Ctrl+‎"
+      (as) "Ctrl+"
+      (bs) "Ctrl+"
+      (cs) "Ctrl+"
+      (es) "Ctrl +"
+      (is) "Ctrl+"
+      (ms) "Ctrl+"
+      (et) "Ctrl +"
+      (it) "CTRL +"
+      (lt) "„Ctrl“ +"
+      (pt) "Ctrl+"
+      (eu) "Ktrl +"
+      (gu) "Ctrl+"
+      (hu) "Ctrl+"
+      (ru) "Ctrl +"
+      (zu) "Ctrl+"
+      (lv) "Vadīšanas taustiņš +"
+      (sv) "Ctrl + "
+      (iw) "Ctrl+‎"
+      (sw) "Ctrl+"
+      (hy) "Ctrl+"
+      (ky) "Ctrl+"
+      (my) "Ctrl+"
+      (az) "Ctrl+"
+      (uz) "Ctrl+"
+      (en-rCA) "Ctrl+"
+      (fr-rCA) "Ctrl+"
+      (en-rGB) "Ctrl+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‏‎‏‏‎‏‏‎‏‎‏‏‎‎‎‎‎‏‎‏‎‏‎‎‏‏‏‏‎‎‏‎‎‎‏‎‎‏‎‏‎‎‎‎‎‏‎‏‎‎‏‎‏‎‏‎‏‎‎Ctrl+‎‏‎‎‏‎"
+      (zh-rHK) "Ctrl +"
+      (zh-rCN) "Ctrl+"
+      (en-rIN) "Ctrl+"
+      (pt-rBR) "Ctrl+"
+      (es-rUS) "Ctrl+"
+      (pt-rPT) "Ctrl +"
+      (en-rAU) "Ctrl+"
+      (zh-rTW) "Ctrl +"
+    resource 0x7f0d000a string/abc_menu_delete_shortcut_label PUBLIC
+      () "delete"
+      (ca) "Supr"
+      (da) "slet"
+      (fa) "حذف"
+      (ja) "Delete"
+      (ka) "delete"
+      (pa) "ਮਿਟਾਓ"
+      (ta) "delete"
+      (nb) "slett"
+      (be) "Delete"
+      (de) "Löschen"
+      (ne) "delete"
+      (te) "delete"
+      (af) "delete"
+      (bg) "delete"
+      (th) "ลบ"
+      (fi) "delete"
+      (hi) "delete"
+      (si) "මකන්න"
+      (vi) "delete"
+      (kk) "delete"
+      (mk) "избриши"
+      (sk) "odstrániť"
+      (uk) "delete"
+      (el) "delete"
+      (gl) "eliminar"
+      (ml) "ഇല്ലാതാക്കുക"
+      (nl) "Delete"
+      (pl) "Delete"
+      (sl) "delete"
+      (tl) "delete"
+      (am) "ሰርዝ"
+      (km) "លុប"
+      (bn) "মুছুন"
+      (in) "delete"
+      (kn) "delete"
+      (mn) "устгах"
+      (ko) "Delete"
+      (lo) "ລຶບ"
+      (ro) "delete"
+      (sq) "delete"
+      (ar) "حذف"
+      (fr) "supprimer"
+      (hr) "delete"
+      (mr) "हटवा"
+      (or) "ଡିଲିଟ୍‌ କରନ୍ତୁ"
+      (sr) "delete"
+      (b+sr+Latn) "delete"
+      (tr) "sil"
+      (ur) "delete"
+      (as) "delete"
+      (bs) "delete"
+      (cs) "delete"
+      (es) "Suprimir"
+      (is) "eyða"
+      (ms) "delete"
+      (et) "kustuta"
+      (it) "CANC"
+      (lt) "„delete“"
+      (pt) "delete"
+      (eu) "ezabatu"
+      (gu) "delete"
+      (hu) "Delete"
+      (ru) "Delete"
+      (zu) "delete"
+      (lv) "dzēšanas taustiņš"
+      (sv) "delete"
+      (iw) "מחיקה"
+      (sw) "delete"
+      (hy) "Delete"
+      (ky) "delete"
+      (my) "delete"
+      (az) "silin"
+      (uz) "Delete"
+      (en-rCA) "delete"
+      (fr-rCA) "supprimer"
+      (en-rGB) "delete"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‎‏‏‏‎‏‎‎‎‎‏‎‎‏‎‏‏‎‏‏‎‏‎‏‏‏‏‏‎‏‏‎‎‏‎‏‎‎‏‏‏‎‏‏‏‏‏‏‎‎‎‎‏‏‏‎‏‎‎‎delete‎‏‎‎‏‎"
+      (zh-rHK) "刪除"
+      (zh-rCN) "Delete 键"
+      (en-rIN) "delete"
+      (pt-rBR) "delete"
+      (es-rUS) "borrar"
+      (pt-rPT) "eliminar"
+      (en-rAU) "delete"
+      (zh-rTW) "Delete 鍵"
+    resource 0x7f0d000b string/abc_menu_enter_shortcut_label PUBLIC
+      () "enter"
+      (ca) "Retorn"
+      (da) "enter"
+      (fa) "enter"
+      (ja) "Enter"
+      (ka) "enter"
+      (pa) "enter"
+      (ta) "enter"
+      (nb) "enter"
+      (be) "Enter"
+      (de) "Eingabetaste"
+      (ne) "enter"
+      (te) "enter"
+      (af) "enter"
+      (bg) "enter"
+      (th) "Enter"
+      (fi) "enter"
+      (hi) "enter"
+      (si) "enter"
+      (vi) "enter"
+      (kk) "enter"
+      (mk) "Enter"
+      (sk) "enter"
+      (uk) "enter"
+      (el) "enter"
+      (gl) "intro"
+      (ml) "enter"
+      (nl) "Enter"
+      (pl) "Enter"
+      (sl) "enter"
+      (tl) "enter"
+      (am) "enter"
+      (km) "enter"
+      (bn) "enter"
+      (in) "enter"
+      (kn) "enter"
+      (mn) "оруулах"
+      (ko) "Enter"
+      (lo) "enter"
+      (ro) "enter"
+      (sq) "enter"
+      (ar) "enter"
+      (fr) "entrée"
+      (hr) "enter"
+      (mr) "एंटर करा"
+      (or) "ଏଣ୍ଟର୍"
+      (sr) "enter"
+      (b+sr+Latn) "enter"
+      (tr) "enter"
+      (ur) "enter"
+      (as) "enter"
+      (bs) "enter"
+      (cs) "enter"
+      (es) "Intro"
+      (is) "enter"
+      (ms) "enter"
+      (et) "sisestusklahv"
+      (it) "INVIO"
+      (lt) "„enter“"
+      (pt) "enter"
+      (eu) "sartu"
+      (gu) "Enter"
+      (hu) "Enter"
+      (ru) "Ввод"
+      (zu) "enter"
+      (lv) "ievadīšanas taustiņš"
+      (sv) "retur"
+      (iw) "Enter"
+      (sw) "enter"
+      (hy) "Enter"
+      (ky) "enter"
+      (my) "enter"
+      (az) "daxil olun"
+      (uz) "Enter"
+      (en-rCA) "enter"
+      (fr-rCA) "entrée"
+      (en-rGB) "enter"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‎‏‎‏‏‏‎‏‎‏‏‏‏‏‏‏‎‏‏‎‎‎‎‏‏‎‎‏‏‎‏‏‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‎‎‎‏‏‎enter‎‏‎‎‏‎"
+      (zh-rHK) "Enter 鍵"
+      (zh-rCN) "Enter 键"
+      (en-rIN) "enter"
+      (pt-rBR) "enter"
+      (es-rUS) "intro"
+      (pt-rPT) "enter"
+      (en-rAU) "enter"
+      (zh-rTW) "Enter 鍵"
+    resource 0x7f0d000c string/abc_menu_function_shortcut_label PUBLIC
+      () "Function+"
+      (ca) "Funció+"
+      (da) "Fn+"
+      (fa) "‎Function+‎"
+      (ja) "Function+"
+      (ka) "Function+"
+      (pa) "Function+"
+      (ta) "Function மற்றும்"
+      (nb) "Funksjon+"
+      (be) "Fn +"
+      (de) "Funktionstaste +"
+      (ne) "Function+"
+      (te) "Function+"
+      (af) "Funksie+"
+      (bg) "Function+"
+      (th) "Function+"
+      (fi) "Fn+"
+      (hi) "Function+"
+      (si) "Function+"
+      (vi) "Function+"
+      (kk) "Function+"
+      (mk) "Function+"
+      (sk) "Function+"
+      (uk) "Function+"
+      (el) "Function+"
+      (gl) "Función +"
+      (ml) "ഫംഗ്ഷന്‍+"
+      (nl) "Functie +"
+      (pl) "Funkcyjny+"
+      (sl) "Fn +"
+      (tl) "Function+"
+      (am) "Function+"
+      (km) "Function+"
+      (bn) "Function+"
+      (in) "Function+"
+      (kn) "Function+"
+      (mn) "Функц+"
+      (ko) "Function+"
+      (lo) "Function+"
+      (ro) "Function+"
+      (sq) "Funksioni+"
+      (ar) "Function+"
+      (fr) "Fonction+"
+      (hr) "Function+"
+      (mr) "Function+"
+      (or) "Function+"
+      (sr) "Function+"
+      (b+sr+Latn) "Function+"
+      (tr) "Function+"
+      (ur) "Function+‎"
+      (as) "Function+"
+      (bs) "Function+"
+      (cs) "Fn+"
+      (es) "Función +"
+      (is) "Aðgerðarlykill+"
+      (ms) "Fungsi+"
+      (et) "Funktsiooniklahv +"
+      (it) "FUNZIONE +"
+      (lt) "„Function“ +"
+      (pt) "Function+"
+      (eu) "Funtzioa +"
+      (gu) "Function+"
+      (hu) "Function+"
+      (ru) "Fn +"
+      (zu) "Function+"
+      (lv) "Funkcijas taustiņš +"
+      (sv) "Funktion + "
+      (iw) "Function+"
+      (sw) "Function+"
+      (hy) "Function+"
+      (ky) "Function+"
+      (my) "Function+"
+      (az) "Funksiya+"
+      (uz) "Fn+"
+      (en-rCA) "Function+"
+      (fr-rCA) "Fonction+"
+      (en-rGB) "Function+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‏‏‎‏‎‎‏‏‎‏‎‏‎‎‎‎‎‏‏‏‏‎‎‎‎‎‏‏‎‎‎‏‏‎‎‏‎‎‏‏‎‎‏‎‎‏‎‎‎‏‏‎‎‏‎‎‎‏‏‏‎Function+‎‏‎‎‏‎"
+      (zh-rHK) "Fn +"
+      (zh-rCN) "Fn+"
+      (en-rIN) "Function+"
+      (pt-rBR) "Function+"
+      (es-rUS) "Función+"
+      (pt-rPT) "Função +"
+      (en-rAU) "Function+"
+      (zh-rTW) "Fn +"
+    resource 0x7f0d000d string/abc_menu_meta_shortcut_label PUBLIC
+      () "Meta+"
+      (ca) "Meta+"
+      (da) "Meta+"
+      (fa) "‎Meta+‎"
+      (ja) "Meta+"
+      (ka) "Meta+"
+      (pa) "Meta+"
+      (ta) "Meta மற்றும்"
+      (nb) "Meta+"
+      (be) "Meta +"
+      (de) "Meta-Taste +"
+      (ne) "Meta+"
+      (te) "Meta+"
+      (af) "Meta+"
+      (bg) "Meta+"
+      (th) "Meta+"
+      (fi) "Meta+"
+      (hi) "Meta+"
+      (si) "Meta+"
+      (vi) "Meta+"
+      (kk) "Meta+"
+      (mk) "Meta+"
+      (sk) "Meta+"
+      (uk) "Meta+"
+      (el) "Meta+"
+      (gl) "Meta +"
+      (ml) "മെറ്റ+"
+      (nl) "Meta +"
+      (pl) "Meta+"
+      (sl) "Meta +"
+      (tl) "Meta+"
+      (am) "Meta+"
+      (km) "Meta+"
+      (bn) "Meta+"
+      (in) "Meta+"
+      (kn) "Meta+"
+      (mn) "Мета+"
+      (ko) "Meta+"
+      (lo) "Meta+"
+      (ro) "Meta+"
+      (sq) "Meta+"
+      (ar) "Meta+"
+      (fr) "Méta+"
+      (hr) "Meta+"
+      (mr) "Meta+"
+      (or) "Meta+"
+      (sr) "Meta+"
+      (b+sr+Latn) "Meta+"
+      (tr) "Meta+"
+      (ur) "Meta+‎"
+      (as) "Meta+"
+      (bs) "Meta+"
+      (cs) "Meta+"
+      (es) "Meta +"
+      (is) "Meta+"
+      (ms) "Meta+"
+      (et) "Meta +"
+      (it) "META +"
+      (lt) "„Meta“ +"
+      (pt) "Meta+"
+      (eu) "Meta +"
+      (gu) "Meta+"
+      (hu) "Meta+"
+      (ru) "Meta +"
+      (zu) "Meta+"
+      (lv) "Meta taustiņš +"
+      (sv) "Meta + "
+      (iw) "Meta+"
+      (sw) "Meta+"
+      (hy) "Meta+"
+      (ky) "Meta+"
+      (my) "Meta+"
+      (az) "Meta+"
+      (uz) "Meta+"
+      (en-rCA) "Meta+"
+      (fr-rCA) "Méta+"
+      (en-rGB) "Meta+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‎‎‏‎‏‏‎‏‏‎‏‏‏‎‎‎‏‎‎‎‏‎‎‎‎‏‏‏‏‎‎‏‏‎‎‏‎‎‎‎‎‏‎‏‎‎‏‎‎‏‏‏‏‏‏‎‎Meta+‎‏‎‎‏‎"
+      (zh-rHK) "Meta +"
+      (zh-rCN) "Meta+"
+      (en-rIN) "Meta+"
+      (pt-rBR) "Meta+"
+      (es-rUS) "Meta+"
+      (pt-rPT) "Meta +"
+      (en-rAU) "Meta+"
+      (zh-rTW) "Meta +"
+    resource 0x7f0d000e string/abc_menu_shift_shortcut_label PUBLIC
+      () "Shift+"
+      (ca) "Maj+"
+      (da) "Shift+"
+      (fa) "‎Shift+‎"
+      (ja) "Shift+"
+      (ka) "Shift+"
+      (pa) "Shift+"
+      (ta) "Shift மற்றும்"
+      (nb) "Shift+"
+      (be) "Shift +"
+      (de) "Umschalttaste +"
+      (ne) "Shift+"
+      (te) "Shift+"
+      (af) "Shift+"
+      (bg) "Shift+"
+      (th) "Shift+"
+      (fi) "Vaihto+"
+      (hi) "Shift+"
+      (si) "Shift+"
+      (vi) "Shift+"
+      (kk) "Shift+"
+      (mk) "Shift+"
+      (sk) "Shift+"
+      (uk) "Shift+"
+      (el) "Shift+"
+      (gl) "Maiús +"
+      (ml) "Shift+"
+      (nl) "Shift +"
+      (pl) "Shift+"
+      (sl) "Shift +"
+      (tl) "Shift+"
+      (am) "Shift+"
+      (km) "Shift+"
+      (bn) "Shift+"
+      (in) "Shift+"
+      (kn) "Shift+"
+      (mn) "Шифт+"
+      (ko) "Shift+"
+      (lo) "Shift+"
+      (ro) "Shift+"
+      (sq) "Shift+"
+      (ar) "Shift+"
+      (fr) "Maj+"
+      (hr) "Shift+"
+      (mr) "Shift+"
+      (or) "Shift+"
+      (sr) "Shift+"
+      (b+sr+Latn) "Shift+"
+      (tr) "Üst Karakter+"
+      (ur) "Shift+‎"
+      (as) "Shift+"
+      (bs) "Shift+"
+      (cs) "Shift+"
+      (es) "Mayús +"
+      (is) "Shift+"
+      (ms) "Shift+"
+      (et) "Tõstuklahv +"
+      (it) "MAIUSC +"
+      (lt) "„Shift“ +"
+      (pt) "Shift+"
+      (eu) "Maius +"
+      (gu) "Shift+"
+      (hu) "Shift+"
+      (ru) "Shift +"
+      (zu) "Shift+"
+      (lv) "Pārslēgšanas taustiņš +"
+      (sv) "Skift + "
+      (iw) "Shift+"
+      (sw) "Shift+"
+      (hy) "Shift+"
+      (ky) "Shift+"
+      (my) "Shift+"
+      (az) "Shift+"
+      (uz) "Shift+"
+      (en-rCA) "Shift+"
+      (fr-rCA) "Maj+"
+      (en-rGB) "Shift+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‎‎‏‏‏‎‎‏‏‎‏‎‏‏‎‎‎‎‎‏‏‎‎‎‎‏‎‎‎‏‏‎‎‎‎‎‎‎‎‎‎‏‏‎‏‎‎‏‎‎‎‏‏‎‎‎‎‏‏‎Shift+‎‏‎‎‏‎"
+      (zh-rHK) "Shift +"
+      (zh-rCN) "Shift+"
+      (en-rIN) "Shift+"
+      (pt-rBR) "Shift+"
+      (es-rUS) "Mayúscula+"
+      (pt-rPT) "Shift +"
+      (en-rAU) "Shift+"
+      (zh-rTW) "Shift +"
+    resource 0x7f0d000f string/abc_menu_space_shortcut_label PUBLIC
+      () "space"
+      (ca) "Espai"
+      (da) "mellemrum"
+      (fa) "فاصله"
+      (ja) "Space"
+      (ka) "შორისი"
+      (pa) "space"
+      (ta) "space"
+      (nb) "mellomrom"
+      (be) "Прабел"
+      (de) "Leertaste"
+      (ne) "space"
+      (te) "స్పేస్"
+      (af) "spasiebalk"
+      (bg) "клавиша за интервал"
+      (th) "Space"
+      (fi) "välilyönti"
+      (hi) "space"
+      (si) "space"
+      (vi) "space"
+      (kk) "бос орын"
+      (mk) "вселена"
+      (sk) "medzerník"
+      (uk) "пробіл"
+      (el) "διάστημα"
+      (gl) "espazo"
+      (ml) "സ്‌പെയ്‌സ്"
+      (nl) "spatie"
+      (pl) "spacja"
+      (sl) "preslednica"
+      (tl) "space"
+      (am) "ክፍተት"
+      (km) "space"
+      (bn) "space"
+      (in) "spasi"
+      (kn) "space"
+      (mn) "зай"
+      (ko) "스페이스바"
+      (lo) "ຍະຫວ່າງ"
+      (ro) "space"
+      (sq) "hapësirë"
+      (ar) "فضاء"
+      (fr) "espace"
+      (hr) "svemir"
+      (mr) "space"
+      (or) "ସ୍ପେସ୍‍"
+      (sr) "тастер за размак"
+      (b+sr+Latn) "taster za razmak"
+      (tr) "boşluk"
+      (ur) "space"
+      (as) "space"
+      (bs) "razmak"
+      (cs) "mezerník"
+      (es) "Espacio"
+      (is) "bilslá"
+      (ms) "ruang"
+      (et) "tühik"
+      (it) "SPAZIO"
+      (lt) "„space“"
+      (pt) "espaço"
+      (eu) "zuriunea"
+      (gu) "space"
+      (hu) "Szóköz"
+      (ru) "Пробел"
+      (zu) "space"
+      (lv) "atstarpes taustiņš"
+      (sv) "blanksteg"
+      (iw) "רווח"
+      (sw) "space"
+      (hy) "բացատ"
+      (ky) "боштук"
+      (my) "space"
+      (az) "space"
+      (uz) "Probel"
+      (en-rCA) "space"
+      (fr-rCA) "espace"
+      (en-rGB) "space"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‎‏‏‏‏‏‏‎‏‏‏‎‎‎‏‎‎‏‏‏‎‏‏‎‎‎‎‎‎‎‏‏‎‏‏‎‎‎‏‏‎‎‏‎‎‎‏‏‎‏‎‎‎‎‏‎‏‏‎‎space‎‏‎‎‏‎"
+      (zh-rHK) "空白鍵"
+      (zh-rCN) "空格键"
+      (en-rIN) "space"
+      (pt-rBR) "espaço"
+      (es-rUS) "espacio"
+      (pt-rPT) "espaço"
+      (en-rAU) "space"
+      (zh-rTW) "空格鍵"
+    resource 0x7f0d0010 string/abc_menu_sym_shortcut_label PUBLIC
+      () "Sym+"
+      (ca) "Sym+"
+      (da) "Sym+"
+      (fa) "‎Sym+‎"
+      (ja) "Sym+"
+      (ka) "Sym+"
+      (pa) "Sym+"
+      (ta) "Sym மற்றும்"
+      (nb) "Sym+"
+      (be) "Sym +"
+      (de) "Sym-Taste +"
+      (ne) "Sym+"
+      (te) "Sym+"
+      (af) "Simbool+"
+      (bg) "Sym+"
+      (th) "Sym+"
+      (fi) "Sym+"
+      (hi) "Sym+"
+      (si) "Sym+"
+      (vi) "Sym+"
+      (kk) "Sym+"
+      (mk) "Sym+"
+      (sk) "Sym+"
+      (uk) "Sym+"
+      (el) "Sym+"
+      (gl) "Sym +"
+      (ml) "Sym+"
+      (nl) "Sym +"
+      (pl) "Sym+"
+      (sl) "Sym +"
+      (tl) "Sym+"
+      (am) "Sym+"
+      (km) "Sym+"
+      (bn) "Sym+"
+      (in) "Sym+"
+      (kn) "Sym+"
+      (mn) "Sym+"
+      (ko) "Sym+"
+      (lo) "Sym+"
+      (ro) "Sym+"
+      (sq) "Sym+"
+      (ar) "Sym+"
+      (fr) "Sym+"
+      (hr) "Sym+"
+      (mr) "Sym+"
+      (or) "Sym+"
+      (sr) "Sym+"
+      (b+sr+Latn) "Sym+"
+      (tr) "Sym+"
+      (ur) "Sym+‎"
+      (as) "Sym+"
+      (bs) "Sym+"
+      (cs) "Sym+"
+      (es) "Sym +"
+      (is) "Sym+"
+      (ms) "Sym+"
+      (et) "Sym +"
+      (it) "SYM +"
+      (lt) "„Sym“ +"
+      (pt) "Sym+"
+      (eu) "Sym +"
+      (gu) "Sym+"
+      (hu) "Sym+"
+      (ru) "Sym +"
+      (zu) "Sym+"
+      (lv) "Simbolu taustiņš +"
+      (sv) "Symbol + "
+      (iw) "Sym+"
+      (sw) "Sym+"
+      (hy) "Sym+"
+      (ky) "Sym+"
+      (my) "Sym+"
+      (az) "Sym+"
+      (uz) "Sym+"
+      (en-rCA) "Sym+"
+      (fr-rCA) "Sym+"
+      (en-rGB) "Sym+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‏‏‏‎‎‎‏‎‏‏‎‏‏‏‎‏‏‏‎‏‏‎‏‎‎‏‏‏‏‏‎‏‎‎‎‎‎‎‎‎‎‎‎‏‎‎‎‏‎‎‏‏‎‏‏‏‎‎Sym+‎‏‎‎‏‎"
+      (zh-rHK) "Sym +"
+      (zh-rCN) "Sym+"
+      (en-rIN) "Sym+"
+      (pt-rBR) "Sym+"
+      (es-rUS) "Sym+"
+      (pt-rPT) "Sym +"
+      (en-rAU) "Sym+"
+      (zh-rTW) "Sym +"
+    resource 0x7f0d0011 string/abc_prepend_shortcut_label PUBLIC
+      () "Menu+"
+      (ca) "Menú+"
+      (da) "Menu+"
+      (fa) "منو+"
+      (ja) "Menu+"
+      (ka) "Menu+"
+      (pa) "Menu+"
+      (ta) "Menu மற்றும்"
+      (nb) "Meny+"
+      (be) "Меню +"
+      (de) "Menütaste +"
+      (ne) "Menu+"
+      (te) "Menu+"
+      (af) "Kieslys+"
+      (bg) "Menu+"
+      (th) "เมนู+"
+      (fi) "Valikko+"
+      (hi) "Menu+"
+      (si) "Menu+"
+      (vi) "Menu+"
+      (kk) "Menu+"
+      (mk) "Menu+"
+      (sk) "Menu+"
+      (uk) "Menu+"
+      (el) "Menu+"
+      (gl) "Menú +"
+      (ml) "മെനു+"
+      (nl) "Menu +"
+      (pl) "Menu+"
+      (sl) "Meni +"
+      (tl) "Menu+"
+      (am) "Menu+"
+      (km) "Menu+"
+      (bn) "Menu+"
+      (in) "Menu+"
+      (kn) "Menu+"
+      (mn) "Цэс+"
+      (ko) "Menu+"
+      (lo) "Menu+"
+      (ro) "Meniu+"
+      (sq) "Menyja+"
+      (ar) "القائمة+"
+      (fr) "Menu+"
+      (hr) "Menu+"
+      (mr) "मेनू+"
+      (or) "ମେନୁ"
+      (sr) "Menu+"
+      (b+sr+Latn) "Menu+"
+      (tr) "Menü+"
+      (ur) "Menu+‎"
+      (as) "Menu+"
+      (bs) "Menu+"
+      (cs) "Menu+"
+      (es) "Menú +"
+      (is) "Valmynd+"
+      (ms) "Menu+"
+      (et) "Menüü +"
+      (it) "MENU +"
+      (lt) "„Menu“ +"
+      (pt) "Menu+"
+      (eu) "Menua +"
+      (gu) "Menu+"
+      (hu) "Menu+"
+      (ru) "Меню +"
+      (zu) "Imenyu+"
+      (lv) "Poga Izvēlne +"
+      (sv) "Meny + "
+      (iw) "תפריט+"
+      (sw) "Menu+"
+      (hy) "Menu+"
+      (ky) "Menu+"
+      (my) "Menu+"
+      (az) "Menyu+"
+      (uz) "Menyu+"
+      (en-rCA) "Menu+"
+      (fr-rCA) "Menu+"
+      (en-rGB) "Menu+"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‏‎‎‏‎‎‏‏‏‎‎‎‎‎‎‏‏‏‎‏‏‏‏‎‎‎‎‎‏‎‎‎‏‎‏‏‏‏‎‏‎‏‏‏‎‎‎‎‏‏‏‏‎‏‏‏‏‏‎‎Menu+‎‏‎‎‏‎"
+      (zh-rHK) "Menu +"
+      (zh-rCN) "Menu+"
+      (en-rIN) "Menu+"
+      (pt-rBR) "Menu+"
+      (es-rUS) "Menú+"
+      (pt-rPT) "Menu +"
+      (en-rAU) "Menu+"
+      (zh-rTW) "Menu +"
+    resource 0x7f0d0013 string/abc_searchview_description_clear PUBLIC
+      () "Clear query"
+      (ca) "Esborra la consulta"
+      (da) "Ryd forespørgsel"
+      (fa) "پاک کردن پُرسمان"
+      (ja) "検索キーワードを削除"
+      (ka) "მოთხოვნის გასუფთავება"
+      (pa) "ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ"
+      (ta) "வினவலை அழிக்கும்"
+      (nb) "Slett søket"
+      (be) "Выдаліць запыт"
+      (de) "Suchanfrage löschen"
+      (ne) "क्वेरी खाली गर्नुहोस्"
+      (te) "ప్రశ్నను తీసివేస్తుంది"
+      (af) "Vee navraag uit"
+      (bg) "Изчистване на заявката"
+      (th) "ล้างคำค้นหา"
+      (fi) "Tyhjennä kysely"
+      (hi) "क्‍वेरी हटाएं"
+      (si) "විමසුම හිස් කරන්න"
+      (vi) "Xóa truy vấn"
+      (kk) "Сұрауды өшіру"
+      (mk) "Исчисти барање"
+      (sk) "Vymazať dopyt"
+      (uk) "Очистити запит"
+      (el) "Διαγραφή ερωτήματος"
+      (gl) "Borra a consulta"
+      (ml) "ചോദ്യം മായ്‌ക്കുക"
+      (nl) "Zoekopdracht wissen"
+      (pl) "Wyczyść zapytanie"
+      (sl) "Izbris poizvedbe"
+      (tl) "I-clear ang query"
+      (am) "መጠይቅ አጽዳ"
+      (km) "សម្អាត​សំណួរ"
+      (bn) "কোয়েরি মুছে ফেলুন"
+      (in) "Hapus kueri"
+      (kn) "ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸಿ"
+      (mn) "Асуулга арилгах"
+      (ko) "검색어 삭제"
+      (lo) "ລຶບຂໍ້ຄວາມຊອກຫາ"
+      (ro) "Ștergeți interogarea"
+      (sq) "Pastro pyetjen"
+      (ar) "محو طلب البحث"
+      (fr) "Effacer la requête"
+      (hr) "Izbriši upit"
+      (mr) "क्‍वेरी साफ करा"
+      (or) "କ୍ୱେରୀ ଖାଲି କରନ୍ତୁ"
+      (sr) "Обришите упит"
+      (b+sr+Latn) "Obrišite upit"
+      (tr) "Sorguyu temizle"
+      (ur) "استفسار صاف کریں"
+      (as) "সন্ধান কৰা প্ৰশ্ন মচক"
+      (bs) "Obriši upit"
+      (cs) "Smazat dotaz"
+      (es) "Borrar consulta"
+      (is) "Hreinsa fyrirspurn"
+      (ms) "Kosongkan pertanyaan"
+      (et) "Päringu tühistamine"
+      (it) "Cancella query"
+      (lt) "Išvalyti užklausą"
+      (pt) "Limpar consulta"
+      (eu) "Garbitu kontsulta"
+      (gu) "ક્વેરી સાફ કરો"
+      (hu) "Lekérdezés törlése"
+      (ru) "Удалить запрос"
+      (zu) "Sula inkinga"
+      (lv) "Notīrīt vaicājumu"
+      (sv) "Ta bort frågan"
+      (iw) "מחיקת השאילתה"
+      (sw) "Futa hoja"
+      (hy) "Ջնջել հարցումը"
+      (ky) "Сурамды өчүрүү"
+      (my) "ရှာဖွေမှုကို ဖယ်ရှားရန်"
+      (az) "Sorğunu silin"
+      (uz) "So‘rovni o‘chirish"
+      (en-rCA) "Clear query"
+      (fr-rCA) "Effacer la requête"
+      (en-rGB) "Clear query"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‎‏‏‏‏‏‎‏‎‏‏‎‏‎‏‎‎‎‏‎‎‏‏‏‏‎‎‎‏‎‏‎‎‎‎‎‏‏‎‏‏‎‎‏‎‏‏‎‎‎‏‎‏‏‏‎‎‏‏‎Clear query‎‏‎‎‏‎"
+      (zh-rHK) "清除查詢"
+      (zh-rCN) "清除查询"
+      (en-rIN) "Clear query"
+      (pt-rBR) "Limpar consulta"
+      (es-rUS) "Borrar consulta"
+      (pt-rPT) "Limpar consulta"
+      (en-rAU) "Clear query"
+      (zh-rTW) "清除查詢"
+    resource 0x7f0d0015 string/abc_searchview_description_search PUBLIC
+      () "Search"
+      (ca) "Cerca"
+      (da) "Søg"
+      (fa) "جستجو"
+      (ja) "検索"
+      (ka) "ძიება"
+      (pa) "ਖੋਜ"
+      (ta) "தேடும்"
+      (nb) "Søk"
+      (be) "Пошук"
+      (de) "Suche"
+      (ne) "खोज"
+      (te) "సెర్చ్"
+      (af) "Soek"
+      (bg) "Търсене"
+      (th) "ค้นหา"
+      (fi) "Haku"
+      (hi) "खोजें"
+      (si) "සෙවීම"
+      (vi) "Tìm kiếm"
+      (kk) "Іздеу"
+      (mk) "Пребарај"
+      (sk) "Hľadať"
+      (uk) "Пошук"
+      (el) "Αναζήτηση"
+      (gl) "Realiza buscas"
+      (ml) "തിരയുക"
+      (nl) "Zoeken"
+      (pl) "Szukaj"
+      (sl) "Iskanje"
+      (tl) "Maghanap"
+      (am) "ፍለጋ"
+      (km) "ស្វែងរក"
+      (bn) "সার্চ করুন"
+      (in) "Telusuri"
+      (kn) "ಹುಡುಕಿ"
+      (mn) "Хайх"
+      (ko) "검색"
+      (lo) "ຊອກຫາ"
+      (ro) "Căutați"
+      (sq) "Kërko"
+      (ar) "البحث"
+      (fr) "Rechercher"
+      (hr) "Pretraži"
+      (mr) "शोधा"
+      (or) "ସନ୍ଧାନ କରନ୍ତୁ"
+      (sr) "Претражите"
+      (b+sr+Latn) "Pretražite"
+      (tr) "Ara"
+      (ur) "تلاش کریں"
+      (as) "সন্ধান কৰক"
+      (bs) "Pretraži"
+      (cs) "Hledat"
+      (es) "Buscar"
+      (is) "Leit"
+      (ms) "Cari"
+      (et) "Otsing"
+      (it) "Cerca"
+      (lt) "Ieškoti"
+      (pt) "Pesquisar"
+      (eu) "Bilatu"
+      (gu) "શોધો"
+      (hu) "Keresés"
+      (ru) "Поиск"
+      (zu) "Sesha"
+      (lv) "Meklēt"
+      (sv) "Sök"
+      (iw) "חיפוש"
+      (sw) "Tafuta"
+      (hy) "Որոնել"
+      (ky) "Издөө"
+      (my) "ရှာရန်"
+      (az) "Axtarın"
+      (uz) "Qidiruv"
+      (en-rCA) "Search"
+      (fr-rCA) "Rechercher"
+      (en-rGB) "Search"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‏‏‎‏‏‎‏‏‎‏‏‏‏‏‏‎‏‎‎‏‎‏‎‎‏‏‎‎‎‎‎‎‎‎‎‏‏‎‏‎‏‏‏‎‎‏‏‏‏‏‎‎‏‏‏‎‎‎‎Search‎‏‎‎‏‎"
+      (zh-rHK) "搜尋"
+      (zh-rCN) "搜索"
+      (en-rIN) "Search"
+      (pt-rBR) "Pesquisar"
+      (es-rUS) "Buscar"
+      (pt-rPT) "Pesquisar"
+      (en-rAU) "Search"
+      (zh-rTW) "搜尋"
+    resource 0x7f0d0016 string/abc_searchview_description_submit PUBLIC
+      () "Submit query"
+      (ca) "Envia la consulta"
+      (da) "Indsend forespørgsel"
+      (fa) "ارسال پُرسمان"
+      (ja) "検索キーワードを送信"
+      (ka) "მოთხოვნის გადაგზავნა"
+      (pa) "ਪੁੱਛਗਿੱਛ ਸਪੁਰਦ ਕਰੋ"
+      (ta) "வினவலைச் சமர்ப்பிக்கும்"
+      (nb) "Utfør søket"
+      (be) "Адправіць запыт"
+      (de) "Anfrage senden"
+      (ne) "क्वेरी पेस गर्नुहोस्"
+      (te) "ప్రశ్నని సమర్పిస్తుంది"
+      (af) "Dien navraag in"
+      (bg) "Изпращане на заявката"
+      (th) "ส่งคำค้นหา"
+      (fi) "Lähetä kysely"
+      (hi) "क्वेरी सबमिट करें"
+      (si) "විමසුම යොමු කරන්න"
+      (vi) "Gửi truy vấn"
+      (kk) "Сұрауды жіберу"
+      (mk) "Испрати барање"
+      (sk) "Odoslať dopyt"
+      (uk) "Наіслати запит"
+      (el) "Υποβολή ερωτήματος"
+      (gl) "Envía a consulta"
+      (ml) "ചോദ്യം സമർപ്പിക്കുക"
+      (nl) "Zoekopdracht verzenden"
+      (pl) "Wyślij zapytanie"
+      (sl) "Pošiljanje poizvedbe"
+      (tl) "Isumite ang query"
+      (am) "መጠይቅ አስገባ"
+      (km) "ដាក់បញ្ជូន​សំណួរ"
+      (bn) "কোয়েরি জমা দিন"
+      (in) "Kirim kueri"
+      (kn) "ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸಿ"
+      (mn) "Асуулга илгээх"
+      (ko) "검색어 보내기"
+      (lo) "ສົ່ງຂໍ້ມູນ"
+      (ro) "Trimiteți interogarea"
+      (sq) "Dërgo pyetjen"
+      (ar) "إرسال طلب البحث"
+      (fr) "Envoyer la requête"
+      (hr) "Pošalji upit"
+      (mr) "क्वेरी सबमिट करा"
+      (or) "କ୍ୱେରୀ ଦାଖଲ କରନ୍ତୁ"
+      (sr) "Пошаљите упит"
+      (b+sr+Latn) "Pošaljite upit"
+      (tr) "Sorguyu gönder"
+      (ur) "استفسار جمع کرائیں"
+      (as) "প্ৰশ্ন দাখিল কৰক"
+      (bs) "Pošalji upit"
+      (cs) "Odeslat dotaz"
+      (es) "Enviar consulta"
+      (is) "Senda fyrirspurn"
+      (ms) "Serah pertanyaan"
+      (et) "Päringu esitamine"
+      (it) "Invia query"
+      (lt) "Pateikti užklausą"
+      (pt) "Enviar consulta"
+      (eu) "Bidali kontsulta"
+      (gu) "ક્વેરી સબમિટ કરો"
+      (hu) "Lekérdezés küldése"
+      (ru) "Отправить запрос"
+      (zu) "Thumela umbuzo"
+      (lv) "Iesniegt vaicājumu"
+      (sv) "Skicka fråga"
+      (iw) "שליחת שאילתה"
+      (sw) "Wasilisha hoja"
+      (hy) "Ուղարկել հարցումը"
+      (ky) "Сурам тапшыруу"
+      (my) "ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်"
+      (az) "Sorğunu göndərin"
+      (uz) "So‘rov yaratish"
+      (en-rCA) "Submit query"
+      (fr-rCA) "Envoyer la requête"
+      (en-rGB) "Submit query"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‎‎‏‎‏‎‎‎‎‏‎‎‏‏‏‏‎‎‎‎‏‎‏‏‎‏‎‏‎‏‎‏‏‎‏‏‏‎‎‎‏‏‏‏‏‎‏‏‎‎‏‏‎‏‏‏‏‏‎Submit query‎‏‎‎‏‎"
+      (zh-rHK) "提交查詢"
+      (zh-rCN) "提交查询"
+      (en-rIN) "Submit query"
+      (pt-rBR) "Enviar consulta"
+      (es-rUS) "Enviar consulta"
+      (pt-rPT) "Enviar consulta"
+      (en-rAU) "Submit query"
+      (zh-rTW) "提交查詢"
+    resource 0x7f0d0017 string/abc_searchview_description_voice PUBLIC
+      () "Voice search"
+      (ca) "Cerca per veu"
+      (da) "Talesøgning"
+      (fa) "جستجوی گفتاری"
+      (ja) "音声検索"
+      (ka) "ხმოვანი ძიება"
+      (pa) "ਅਵਾਜ਼ੀ ਖੋਜ"
+      (ta) "குரல் தேடல்"
+      (nb) "Talesøk"
+      (be) "Галасавы пошук"
+      (de) "Sprachsuche"
+      (ne) "आवाजमा आधारित खोजी"
+      (te) "వాయిస్ సెర్చ్"
+      (af) "Stemsoektog"
+      (bg) "Гласово търсене"
+      (th) "ค้นหาด้วยเสียง"
+      (fi) "Puhehaku"
+      (hi) "बोलकर खोजें"
+      (si) "හඬ සෙවීම"
+      (vi) "Tìm kiếm bằng giọng nói"
+      (kk) "Дауыспен іздеу"
+      (mk) "Гласовно пребарување"
+      (sk) "Hlasové vyhľadávanie"
+      (uk) "Голосовий пошук"
+      (el) "Φωνητική αναζήτηση"
+      (gl) "Busca por voz"
+      (ml) "സംസാരത്തിലൂടെ തിരയുക"
+      (nl) "Gesproken zoekopdracht"
+      (pl) "Wyszukiwanie głosowe"
+      (sl) "Glasovno iskanje"
+      (tl) "Paghahanap gamit ang boses"
+      (am) "የድምጽ ፍለጋ"
+      (km) "ស្វែងរក​តាម​សំឡេង"
+      (bn) "ভয়েস সার্চ করুন"
+      (in) "Penelusuran suara"
+      (kn) "ಧ್ವನಿ ಹುಡುಕಾಟ"
+      (mn) "Дуут хайлт"
+      (ko) "음성 검색"
+      (lo) "ຊອກຫາດ້ວຍສຽງ"
+      (ro) "Căutare vocală"
+      (sq) "Kërkim me zë"
+      (ar) "بحث صوتي"
+      (fr) "Recherche vocale"
+      (hr) "Glasovno pretraživanje"
+      (mr) "व्हॉइस शोध"
+      (or) "ଭଏସ୍‌ ସର୍ଚ୍ଚ"
+      (sr) "Гласовна претрага"
+      (b+sr+Latn) "Glasovna pretraga"
+      (tr) "Sesli arama"
+      (ur) "صوتی تلاش"
+      (as) "কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান"
+      (bs) "Glasovno pretraživanje"
+      (cs) "Hlasové vyhledávání"
+      (es) "Búsqueda por voz"
+      (is) "Raddleit"
+      (ms) "Carian suara"
+      (et) "Häälotsing"
+      (it) "Ricerca vocale"
+      (lt) "Paieška balsu"
+      (pt) "Pesquisa por voz"
+      (eu) "Ahozko bilaketa"
+      (gu) "વૉઇસ શોધ"
+      (hu) "Hangalapú keresés"
+      (ru) "Голосовой поиск"
+      (zu) "Ukusesha ngezwi"
+      (lv) "Meklēt ar balsi"
+      (sv) "Röstsökning"
+      (iw) "חיפוש קולי"
+      (sw) "Kutafuta kwa kutamka"
+      (hy) "Ձայնային որոնում"
+      (ky) "Айтып издөө"
+      (my) "အသံဖြင့် ရှာရန်"
+      (az) "Səsli axtarış"
+      (uz) "Ovozli qidiruv"
+      (en-rCA) "Voice search"
+      (fr-rCA) "Recherche vocale"
+      (en-rGB) "Voice search"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‎‏‏‎‏‏‎‏‏‎‎‎‏‎‏‏‏‏‏‎‏‏‎‎‎‏‏‎‏‏‎‏‎‎‎‎‏‎‎‎‏‎‎‏‎‏‏‏‎Voice search‎‏‎‎‏‎"
+      (zh-rHK) "語音搜尋"
+      (zh-rCN) "语音搜索"
+      (en-rIN) "Voice search"
+      (pt-rBR) "Pesquisa por voz"
+      (es-rUS) "Búsqueda por voz"
+      (pt-rPT) "Pesquisa por voz"
+      (en-rAU) "Voice search"
+      (zh-rTW) "語音搜尋"
+    resource 0x7f0d001b string/androidx_startup PUBLIC
+      () "androidx.startup"
+    resource 0x7f0d001c string/call_notification_answer_action PUBLIC
+      () "Answer"
+      (ca) "Respon"
+      (da) "Besvar"
+      (fa) "پاسخ دادن"
+      (ja) "応答"
+      (ka) "პასუხი"
+      (pa) "ਜਵਾਬ ਦਿਓ"
+      (ta) "பதிலளி"
+      (nb) "Svar"
+      (be) "Адказаць"
+      (de) "Annehmen"
+      (ne) "जवाफ दिनुहोस्"
+      (te) "పికప్ చేయండి"
+      (af) "Antwoord"
+      (bg) "Отговор"
+      (th) "รับสาย"
+      (fi) "Vastaa"
+      (hi) "जवाब दें"
+      (si) "පිළිතුරු දෙ."
+      (vi) "Trả lời"
+      (kk) "Жауап беру"
+      (mk) "Одговори"
+      (sk) "Prijať"
+      (uk) "Відповісти"
+      (el) "Απάντηση"
+      (gl) "Contestar"
+      (ml) "മറുപടി നൽകുക"
+      (nl) "Beantwoorden"
+      (pl) "Odbierz"
+      (sl) "Sprejmi"
+      (tl) "Sagutin"
+      (am) "መልስ"
+      (km) "ឆ្លើយ"
+      (bn) "উত্তর দিন"
+      (in) "Jawab"
+      (kn) "ಉತ್ತರಿಸಿ"
+      (mn) "Хариулах"
+      (ko) "통화"
+      (lo) "ຮັບສາຍ"
+      (ro) "Răspunde"
+      (sq) "Përgjigju"
+      (ar) "ردّ"
+      (fr) "Répondre"
+      (hr) "Odgovori"
+      (mr) "उत्तर द्या"
+      (or) "ଉତ୍ତର ଦିଅନ୍ତୁ"
+      (sr) "Одговори"
+      (b+sr+Latn) "Odgovori"
+      (tr) "Yanıtla"
+      (ur) "جواب دیں"
+      (as) "উত্তৰ দিয়ক"
+      (bs) "Odgovori"
+      (cs) "Přijmout"
+      (es) "Responder"
+      (is) "Svara"
+      (ms) "Jawab"
+      (et) "Vasta"
+      (it) "Rispondi"
+      (lt) "Atsakyti"
+      (pt) "Atender"
+      (eu) "Erantzun"
+      (gu) "જવાબ આપો"
+      (hu) "Fogadás"
+      (ru) "Ответить"
+      (zu) "Phendula"
+      (lv) "Atbildēt"
+      (sv) "Svara"
+      (iw) "מענה"
+      (sw) "Jibu"
+      (hy) "Պատասխանել"
+      (ky) "Жооп берүү"
+      (my) "ဖုန်းကိုင်ရန်"
+      (az) "Cavab verin"
+      (uz) "Javob berish"
+      (en-rCA) "Answer"
+      (fr-rCA) "Répondre"
+      (en-rGB) "Answer"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‏‎‎‎‎‏‏‏‎‏‏‎‏‏‎‎‏‎‏‏‎‎‎‎‎‏‎‏‎‏‎‏‏‎‎‏‎‎‏‏‏‏‎‎‏‎‏‎‏‎‎‎‎‎‏‎‏‎‎‎Answer‎‏‎‎‏‎"
+      (zh-rHK) "接聽"
+      (zh-rCN) "接听"
+      (en-rIN) "Answer"
+      (pt-rBR) "Atender"
+      (es-rUS) "Responder"
+      (pt-rPT) "Atender"
+      (en-rAU) "Answer"
+      (zh-rTW) "接聽"
+    resource 0x7f0d001d string/call_notification_answer_video_action PUBLIC
+      () "Video"
+      (ca) "Vídeo"
+      (da) "Video"
+      (fa) "ویدیو"
+      (ja) "ビデオ"
+      (ka) "ვიდეო"
+      (pa) "ਵੀਡੀਓ"
+      (ta) "வீடியோ"
+      (nb) "Video"
+      (be) "Відэа"
+      (de) "Video"
+      (ne) "भिडियो"
+      (te) "వీడియో కాల్"
+      (af) "Video"
+      (bg) "Видеообаждане"
+      (th) "วิดีโอ"
+      (fi) "Video"
+      (hi) "वीडियो"
+      (si) "වීඩියෝ"
+      (vi) "Video"
+      (kk) "Бейне"
+      (mk) "Видео"
+      (sk) "Video"
+      (uk) "Відео"
+      (el) "Βίντεο"
+      (gl) "Vídeo"
+      (ml) "വീഡിയോ"
+      (nl) "Video"
+      (pl) "Wideo"
+      (sl) "Video"
+      (tl) "Video"
+      (am) "ቪዲዮ"
+      (km) "វីដេអូ"
+      (bn) "ভিডিও"
+      (in) "Video"
+      (kn) "ವೀಡಿಯೊ"
+      (mn) "Видео"
+      (ko) "동영상"
+      (lo) "ວິດີໂອ"
+      (ro) "Video"
+      (sq) "Video"
+      (ar) "فيديو"
+      (fr) "Vidéo"
+      (hr) "Videozapis"
+      (mr) "व्हिडिओ"
+      (or) "ଭିଡିଓ"
+      (sr) "Видео"
+      (b+sr+Latn) "Video"
+      (tr) "Video"
+      (ur) "ویڈیو"
+      (as) "ভিডিঅ’"
+      (bs) "Video"
+      (cs) "Video"
+      (es) "Vídeo"
+      (is) "Myndsímtal"
+      (ms) "Video"
+      (et) "Video"
+      (it) "Video"
+      (lt) "Vaizdo įrašas"
+      (pt) "Vídeo"
+      (eu) "Bideoa"
+      (gu) "વીડિયો"
+      (hu) "Videó"
+      (ru) "Видео"
+      (zu) "Ividiyo"
+      (lv) "Video"
+      (sv) "Video"
+      (iw) "וידאו"
+      (sw) "Video"
+      (hy) "Տեսազանգ"
+      (ky) "Видео"
+      (my) "ဗီဒီယို"
+      (az) "Video"
+      (uz) "Video"
+      (en-rCA) "Video"
+      (fr-rCA) "Vidéo"
+      (en-rGB) "Video"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‎‏‎‎‎‎‎‏‎‎‏‏‏‎‎‎‏‎‎‎‏‎‏‎‏‎‎‏‏‎‎‏‏‎‎‏‎‎‎‎‏‎‏‎‏‎‎‏‏‎‏‎‎‏‎‎‎‎‎‎Video‎‏‎‎‏‎"
+      (zh-rHK) "視像"
+      (zh-rCN) "视频通话"
+      (en-rIN) "Video"
+      (pt-rBR) "Vídeo"
+      (es-rUS) "Video"
+      (pt-rPT) "Vídeo"
+      (en-rAU) "Video"
+      (zh-rTW) "視訊"
+    resource 0x7f0d001e string/call_notification_decline_action PUBLIC
+      () "Decline"
+      (ca) "Rebutja"
+      (da) "Afvis"
+      (fa) "رد کردن"
+      (ja) "拒否"
+      (ka) "უარყოფა"
+      (pa) "ਕਾਲ ਕੱਟੋ"
+      (ta) "நிராகரி"
+      (nb) "Avvis"
+      (be) "Адхіліць"
+      (de) "Ablehnen"
+      (ne) "काट्नुहोस्"
+      (te) "కట్ చేయండి"
+      (af) "Wys af"
+      (bg) "Отхвърляне"
+      (th) "ปฏิเสธ"
+      (fi) "Hylkää"
+      (hi) "अस्वीकार करें"
+      (si) "ප්‍රතික්ෂේප ක"
+      (vi) "Từ chối"
+      (kk) "Қабылдамау"
+      (mk) "Одбиј"
+      (sk) "Odmietnuť"
+      (uk) "Відхилити"
+      (el) "Απόρριψη"
+      (gl) "Rexeitar"
+      (ml) "നിരസിക്കുക"
+      (nl) "Weigeren"
+      (pl) "Odrzuć"
+      (sl) "Zavrni"
+      (tl) "Tanggihan"
+      (am) "አትቀበል"
+      (km) "បដិសេធ"
+      (bn) "বাতিল করুন"
+      (in) "Tolak"
+      (kn) "ನಿರಾಕರಿಸಿ"
+      (mn) "Татгалзах"
+      (ko) "거절"
+      (lo) "ປະຕິເສດ"
+      (ro) "Respinge"
+      (sq) "Refuzo"
+      (ar) "رفض"
+      (fr) "Refuser"
+      (hr) "Odbij"
+      (mr) "नकार द्या"
+      (or) "ଅଗ୍ରାହ୍ୟ କର"
+      (sr) "Одбиј"
+      (b+sr+Latn) "Odbij"
+      (tr) "Reddet"
+      (ur) "مسترد کریں"
+      (as) "প্ৰত্যাখ্যান কৰক"
+      (bs) "Odbaci"
+      (cs) "Odmítnout"
+      (es) "Rechazar"
+      (is) "Hafna"
+      (ms) "Tolak"
+      (et) "Keeldu"
+      (it) "Rifiuta"
+      (lt) "Atmesti"
+      (pt) "Recusar"
+      (eu) "Baztertu"
+      (gu) "નકારો"
+      (hu) "Elutasítás"
+      (ru) "Отклонить"
+      (zu) "Yenqaba"
+      (lv) "Noraidīt"
+      (sv) "Avvisa"
+      (iw) "דחייה"
+      (sw) "Kataa"
+      (hy) "Մերժել"
+      (ky) "Четке кагуу"
+      (my) "ငြင်းပယ်ရန်"
+      (az) "İmtina edin"
+      (uz) "Rad etish"
+      (en-rCA) "Decline"
+      (fr-rCA) "Refuser"
+      (en-rGB) "Decline"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‎‏‏‎‏‎‎‎‏‏‎‎‎‎‏‎‎‏‏‏‎‏‎‎‏‏‎‎‎‎‏‎‎‏‏‎‎‏‏‏‏‏‎‎‏‎‎‏‎‎‎‎‏‎‎‏‎‎Decline‎‏‎‎‏‎"
+      (zh-rHK) "拒接"
+      (zh-rCN) "拒接"
+      (en-rIN) "Decline"
+      (pt-rBR) "Recusar"
+      (es-rUS) "Rechazar"
+      (pt-rPT) "Recusar"
+      (en-rAU) "Decline"
+      (zh-rTW) "拒接"
+    resource 0x7f0d001f string/call_notification_hang_up_action PUBLIC
+      () "Hang Up"
+      (ca) "Penja"
+      (da) "Læg på"
+      (fa) "قطع تماس"
+      (ja) "通話終了"
+      (ka) "გათიშვა"
+      (pa) "ਸਮਾਪਤ ਕਰੋ"
+      (ta) "துண்டி"
+      (nb) "Legg på"
+      (be) "Завяршыць"
+      (de) "Auflegen"
+      (ne) "फोन राख्नुहोस्"
+      (te) "ముగించండి"
+      (af) "Lui af"
+      (bg) "Затваряне"
+      (th) "วางสาย"
+      (fi) "Lopeta puhelu"
+      (hi) "कॉल काटें"
+      (si) "විසන්ධි කරන්න"
+      (vi) "Kết thúc"
+      (kk) "Тұтқаны қою"
+      (mk) "Спушти"
+      (sk) "Zložiť"
+      (uk) "Завершити"
+      (el) "Τερματισμός"
+      (gl) "Colgar"
+      (ml) "കോൾ നിർത്തുക"
+      (nl) "Ophangen"
+      (pl) "Rozłącz"
+      (sl) "Prekini klic"
+      (tl) "Ibaba"
+      (am) "ስልኩን ዝጋ"
+      (km) "ដាក់​ចុះ"
+      (bn) "কল কেটে দিন"
+      (in) "Tutup"
+      (kn) "ಕರೆ ಕೊನೆಗೊಳಿಸಿ"
+      (mn) "Таслах"
+      (ko) "전화 끊기"
+      (lo) "ວາງສາຍ"
+      (ro) "Închide"
+      (sq) "Mbyll"
+      (ar) "قطع الاتصال"
+      (fr) "Raccrocher"
+      (hr) "Prekini"
+      (mr) "कॉल बंद करा"
+      (or) "ସମାପ୍ତ କରନ୍ତୁ"
+      (sr) "Прекини везу"
+      (b+sr+Latn) "Prekini vezu"
+      (tr) "Kapat"
+      (ur) "منقطع کر دیں"
+      (as) "কল কাটি দিয়ক"
+      (bs) "Prekini vezu"
+      (cs) "Zavěsit"
+      (es) "Colgar"
+      (is) "Leggja á"
+      (ms) "Tamatkan Panggilan"
+      (et) "Lõpeta kõne"
+      (it) "Riaggancia"
+      (lt) "Baigti pok."
+      (pt) "Desligar"
+      (eu) "Amaitu deia"
+      (gu) "સમાપ્ત કરો"
+      (hu) "Befejezés"
+      (ru) "Завершить"
+      (zu) "Vala Ucingo"
+      (lv) "Pārtraukt"
+      (sv) "Lägg på"
+      (iw) "ניתוק"
+      (sw) "Kata simu"
+      (hy) "Ավարտել"
+      (ky) "Чалууну бүтүрүү"
+      (my) "ဖုန်းချရန်"
+      (az) "Dəstəyi asın"
+      (uz) "Tugatish"
+      (en-rCA) "Hang Up"
+      (fr-rCA) "Raccrocher"
+      (en-rGB) "Hang up"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‏‎‎‏‏‏‎‏‎‎‎‎‏‎‎‏‎‏‎‏‏‏‎‏‎‎‏‏‎‎‎‎‎‎‏‏‎‏‏‎‎‏‏‏‏‎‎‎‎‎‎‎‎‎‏‎‏‏‏‎Hang Up‎‏‎‎‏‎"
+      (zh-rHK) "掛斷"
+      (zh-rCN) "挂断"
+      (en-rIN) "Hang up"
+      (pt-rBR) "Desligar"
+      (es-rUS) "Colgar"
+      (pt-rPT) "Desligar"
+      (en-rAU) "Hang up"
+      (zh-rTW) "掛斷"
+    resource 0x7f0d0020 string/call_notification_incoming_text PUBLIC
+      () "Incoming call"
+      (ca) "Trucada entrant"
+      (da) "Indgående opkald"
+      (fa) "تماس ورودی"
+      (ja) "着信"
+      (ka) "შემომავალი ზარი"
+      (pa) "ਇਨਕਮਿੰਗ ਕਾਲ"
+      (ta) "உள்வரும் அழைப்பு"
+      (nb) "Innkommende anrop"
+      (be) "Уваходны выклік"
+      (de) "Eingehender Anruf"
+      (ne) "आगमन कल"
+      (te) "ఇన్‌కమింగ్ కాల్"
+      (af) "Inkomende oproep"
+      (bg) "Входящо обаждане"
+      (th) "สายเรียกเข้า"
+      (fi) "Saapuva puhelu"
+      (hi) "आने वाला (इनकमिंग) कॉल"
+      (si) "එන ඇමතුම"
+      (vi) "Cuộc gọi đến"
+      (kk) "Кіріс қоңырау"
+      (mk) "Дојдовен повик"
+      (sk) "Prichádzajúci hovor"
+      (uk) "Вхідний виклик"
+      (el) "Εισερχόμενη κλήση"
+      (gl) "Chamada entrante"
+      (ml) "ഇൻകമിംഗ് കോൾ"
+      (nl) "Inkomend gesprek"
+      (pl) "Połączenie przychodzące"
+      (sl) "Dohodni klic"
+      (tl) "Papasok na tawag"
+      (am) "ገቢ ጥሪ"
+      (km) "ការ​ហៅ​ចូល"
+      (bn) "ইনকামিং কল"
+      (in) "Panggilan masuk"
+      (kn) "ಒಳಬರುವ ಕರೆ"
+      (mn) "Ирсэн дуудлага"
+      (ko) "수신 전화"
+      (lo) "ສາຍໂທເຂົ້າ"
+      (ro) "Apel primit"
+      (sq) "Telefonatë hyrëse"
+      (ar) "مكالمة واردة"
+      (fr) "Appel entrant"
+      (hr) "Dolazni poziv"
+      (mr) "इनकमिंग कॉल"
+      (or) "ଇନକମିଂ କଲ୍"
+      (sr) "Долазни позив"
+      (b+sr+Latn) "Dolazni poziv"
+      (tr) "Gelen arama"
+      (ur) "اِن کمنگ کال"
+      (as) "অন্তৰ্গামী কল"
+      (bs) "Dolazni poziv"
+      (cs) "Příchozí hovor"
+      (es) "Llamada entrante"
+      (is) "Símtal berst"
+      (ms) "Panggilan masuk"
+      (et) "Sissetulev kõne"
+      (it) "Chiamata in arrivo"
+      (lt) "Gaunamasis skambutis"
+      (pt) "Alguém está ligando"
+      (eu) "Sarrerako deia"
+      (gu) "ઇનકમિંગ કૉલ"
+      (hu) "Bejövő hívás"
+      (ru) "Входящий вызов"
+      (zu) "Ikholi engenayo"
+      (lv) "Ienākošais zvans"
+      (sv) "Inkommande samtal"
+      (iw) "שיחה נכנסת"
+      (sw) "Simu uliyopigiwa"
+      (hy) "Մուտքային զանգ"
+      (ky) "Чалып жатат"
+      (my) "အဝင်ခေါ်ဆိုမှု"
+      (az) "Gələn zəng"
+      (uz) "Kiruvchi chaqiruv"
+      (en-rCA) "Incoming call"
+      (fr-rCA) "Appel entrant"
+      (en-rGB) "Incoming call"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‏‏‎‎‎‎‏‎‎‏‎‏‎‎‎‎‏‎‎‎‎‏‎‏‏‎‎‎‏‏‏‎‏‏‎‎‎‏‎‎‎‏‏‎‏‎‎‎‏‎‏‏‎‏‏‏‎Incoming call‎‏‎‎‏‎"
+      (zh-rHK) "來電"
+      (zh-rCN) "来电"
+      (en-rIN) "Incoming call"
+      (pt-rBR) "Alguém está ligando"
+      (es-rUS) "Llamada entrante"
+      (pt-rPT) "Chamada recebida"
+      (en-rAU) "Incoming call"
+      (zh-rTW) "來電"
+    resource 0x7f0d0021 string/call_notification_ongoing_text PUBLIC
+      () "Ongoing call"
+      (ca) "Trucada en curs"
+      (da) "Igangværende opkald"
+      (fa) "تماس درحال انجام"
+      (ja) "通話中"
+      (ka) "მიმდინარე ზარი"
+      (pa) "ਜਾਰੀ ਕਾਲ"
+      (ta) "செயலில் இருக்கும் அழைப்பு"
+      (nb) "Pågående samtale"
+      (be) "Бягучы выклік"
+      (de) "Aktueller Anruf"
+      (ne) "भइरहेको कल"
+      (te) "కాల్ కొనసాగుతోంది"
+      (af) "Oproep aan die gang"
+      (bg) "Текущо обаждане"
+      (th) "สายที่สนทนาอยู่"
+      (fi) "Käynnissä oleva puhelu"
+      (hi) "पहले से जारी कॉल"
+      (si) "කරගෙන යන ඇමතුම"
+      (vi) "Cuộc gọi đang thực hiện"
+      (kk) "Қоңырау"
+      (mk) "Тековен повик"
+      (sk) "Prebiehajúci hovor"
+      (uk) "Активний виклик"
+      (el) "Κλήση σε εξέλιξη"
+      (gl) "Chamada en curso"
+      (ml) "സജീവമായ കോൾ"
+      (nl) "Actief gesprek"
+      (pl) "Trwa połączenie"
+      (sl) "Aktivni klic"
+      (tl) "Kasalukuyang tawag"
+      (am) "እየተካሄደ ያለ ጥሪ"
+      (km) "ការ​ហៅដែលកំពុងដំណើរការ"
+      (bn) "চালু থাকা কল"
+      (in) "Panggilan sedang berlangsung"
+      (kn) "ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಕರೆ"
+      (mn) "Дуудлага хийгдэж байна"
+      (ko) "진행 중인 통화"
+      (lo) "ສາຍໂທອອກ"
+      (ro) "Apel în desfășurare"
+      (sq) "Telefonatë në vazhdim"
+      (ar) "مكالمة جارية"
+      (fr) "Appel en cours"
+      (hr) "Poziv u tijeku"
+      (mr) "सुरू असलेला कॉल"
+      (or) "ଚାଲିଥିବା କଲ୍"
+      (sr) "Позив је у току"
+      (b+sr+Latn) "Poziv je u toku"
+      (tr) "Devam eden arama"
+      (ur) "جاری کال"
+      (as) "চলি থকা কল"
+      (bs) "Poziv u toku"
+      (cs) "Probíhající hovor"
+      (es) "Llamada en curso"
+      (is) "Símtal í gangi"
+      (ms) "Panggilan sedang berlangsung"
+      (et) "Käimasolev kõne"
+      (it) "Chiamata in corso"
+      (lt) "Vykstantis skambutis"
+      (pt) "Chamada em andamento"
+      (eu) "Deia abian da"
+      (gu) "ચાલુ કૉલ"
+      (hu) "Hívás folyamatban"
+      (ru) "Текущий вызов"
+      (zu) "Ikholi eqhubekayo"
+      (lv) "Pašreizējais zvans"
+      (sv) "Pågående samtal"
+      (iw) "שיחה פעילה"
+      (sw) "Simu inayoendelea"
+      (hy) "Ընթացիկ զանգ"
+      (ky) "Учурдагы чалуу"
+      (my) "လက်ရှိခေါ်ဆိုမှု"
+      (az) "Davam edən zəng"
+      (uz) "Joriy chaqiruv"
+      (en-rCA) "Ongoing call"
+      (fr-rCA) "Appel en cours"
+      (en-rGB) "On-going call"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‏‏‏‏‎‏‎‏‏‎‏‏‏‏‏‏‏‎‏‎‎‎‏‎‏‏‎‎‏‏‏‏‏‎‎‎‎‎‏‎‏‏‏‎‎‎‏‎‏‎‎‏‎‏‏‏‏‏‎‎Ongoing call‎‏‎‎‏‎"
+      (zh-rHK) "通話中"
+      (zh-rCN) "正在通话"
+      (en-rIN) "On-going call"
+      (pt-rBR) "Chamada em andamento"
+      (es-rUS) "Llamada en curso"
+      (pt-rPT) "Chamada em curso"
+      (en-rAU) "On-going call"
+      (zh-rTW) "通話中"
+    resource 0x7f0d0022 string/call_notification_screening_text PUBLIC
+      () "Screening an incoming call"
+      (ca) "S'està filtrant una trucada entrant"
+      (da) "Et indgående opkald screenes"
+      (fa) "درحال غربال کردن تماس ورودی"
+      (ja) "着信をスクリーニング中"
+      (ka) "შემომავალი ზარების გაცხრილვა"
+      (pa) "ਇਨਕਮਿੰਗ ਕਾਲ ਦੀ ਸਕ੍ਰੀਨਿੰਗ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+      (ta) "உள்வரும் அழைப்பை மதிப்பாய்வு செய்கிறது"
+      (nb) "Filtrerer et innkommende anrop"
+      (be) "Фільтраванне ўваходнага выкліку"
+      (de) "Filter für eingehenden Anruf"
+      (ne) "आगमन कल जाँचिँदै छ"
+      (te) "ఇన్‌కమింగ్ కాల్‌ను స్క్రీన్ చేయండి"
+      (af) "Keur tans 'n inkomende oproep"
+      (bg) "Преглежда се входящо обаждане"
+      (th) "กำลังสกรีนสายเรียกเข้า"
+      (fi) "Seulotaan saapuvaa puhelua"
+      (hi) "इनकमिंग कॉल को स्क्रीन किया जा रहा है"
+      (si) "එන ඇමතුමක් පරීක්ෂා කරන්න"
+      (vi) "Đang sàng lọc cuộc gọi đến"
+      (kk) "Келген қоңырауды сүзу"
+      (mk) "Проверка на дојдовен повик"
+      (sk) "Preveruje sa prichádzajúci hovor"
+      (uk) "Вхідний виклик (Фільтр)"
+      (el) "Διαλογή εισερχόμενης κλήσης"
+      (gl) "Filtrando chamada entrante"
+      (ml) "ഇൻകമിംഗ് കോൾ സ്‌ക്രീൻ ചെയ്യുന്നു"
+      (nl) "Een inkomend gesprek screenen"
+      (pl) "Filtruję połączenie przychodzące"
+      (sl) "Preverjanje dohodnega klica"
+      (tl) "Nagsi-screen ng papasok na tawag"
+      (am) "ገቢ ጥሪ ማጣራት"
+      (km) "កំពុងពិនិត្យការ​ហៅ​ចូល"
+      (bn) "ইনকামিং কল স্ক্রিনিং করা হচ্ছে"
+      (in) "Menyaring panggilan masuk"
+      (kn) "ಒಳಬರುವ ಕರೆಯನ್ನು ಸ್ಕ್ರೀನ್ ಮಾಡಲಾಗುತ್ತಿದೆ"
+      (mn) "Ирсэн дуудлагыг харуулж байна"
+      (ko) "수신 전화 검사 중"
+      (lo) "ກຳລັງກວດສອບສາຍໂທເຂົ້າ"
+      (ro) "Se filtrează un apel primit"
+      (sq) "Po filtron një telefonatë hyrëse"
+      (ar) "يتم فحص المكالمة الواردة"
+      (fr) "Filtrage d'un appel entrant"
+      (hr) "Filtriranje dolaznog poziva"
+      (mr) "इनकमिंग कॉल स्क्रीन करत आहे"
+      (or) "ଏକ ଇନକମିଂ କଲକୁ ସ୍କ୍ରିନ୍ କରୁଛି"
+      (sr) "Проверава се долазни позив"
+      (b+sr+Latn) "Proverava se dolazni poziv"
+      (tr) "Gelen arama süzülüyor"
+      (ur) "اِن کمنگ کال کی اسکریننگ"
+      (as) "এটা অন্তৰ্গামী কলৰ পৰীক্ষা কৰি থকা হৈছে"
+      (bs) "Filtriranje dolaznog poziva"
+      (cs) "Prověřování příchozího hovoru"
+      (es) "Filtrando una llamada entrante"
+      (is) "Síar símtal sem berst"
+      (ms) "Menyaring panggilan masuk"
+      (et) "Sissetuleva kõne filtreerimine"
+      (it) "Applicazione filtro a chiamata in arrivo"
+      (lt) "Gaunamojo skambučio tikrinimas"
+      (pt) "Filtrando uma ligação recebida"
+      (eu) "Sarrerako dei bat bistaratzen"
+      (gu) "ઇનકમિંગ કૉલનું સ્ક્રીનિંગ થાય છે"
+      (hu) "Bejövő hívás szűrése"
+      (ru) "Фильтрация входящего вызова"
+      (zu) "Ukuveza ikholi engenayo"
+      (lv) "Ienākošā zvana filtrēšana"
+      (sv) "Ett inkommande samtal filtreras"
+      (iw) "סינון שיחה נכנסת"
+      (sw) "Inachuja simu unayopigiwa"
+      (hy) "Մուտքային զանգի զտում"
+      (ky) "Кирүүчү чалууну иргөө"
+      (my) "အဝင်ခေါ်ဆိုမှုကို စစ်ဆေးနေသည်"
+      (az) "Gələn zəng göstərilir"
+      (uz) "Kiruvchi chaqiruvni filtrlash"
+      (en-rCA) "Screening an incoming call"
+      (fr-rCA) "Filtrer un appel entrant"
+      (en-rGB) "Screening an incoming call"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‎‎‏‏‎‏‎‎‎‏‏‏‎‎‏‎‎‏‎‏‎‎‎‏‏‎‎‏‎‎‎‏‏‏‎‎‏‎‏‎‏‏‏‏‏‎‏‏‏‏‎‏‎‏‏‏‎‎‎Screening an incoming call‎‏‎‎‏‎"
+      (zh-rHK) "正在過濾來電"
+      (zh-rCN) "正在过滤来电"
+      (en-rIN) "Screening an incoming call"
+      (pt-rBR) "Filtrando uma ligação recebida"
+      (es-rUS) "Filtrando una llamada entrante"
+      (pt-rPT) "A filtrar uma chamada recebida…"
+      (en-rAU) "Screening an incoming call"
+      (zh-rTW) "正在過濾來電"
+    resource 0x7f0d0023 string/copy PUBLIC
+      () "Copy"
+      (ca) "Copia"
+      (da) "Kopiér"
+      (fa) "کپی"
+      (ja) "コピー"
+      (ka) "კოპირება"
+      (pa) "ਕਾਪੀ ਕਰੋ"
+      (ta) "நகலெடு"
+      (nb) "Kopiér"
+      (be) "Капіраваць"
+      (de) "Kopieren"
+      (ne) "प्रतिलिपि गर्नुहोस्"
+      (te) "కాపీ చేయి"
+      (af) "Kopieer"
+      (bg) "Копиране"
+      (th) "คัดลอก"
+      (fi) "Kopioi"
+      (hi) "कॉपी करें"
+      (si) "පිටපත් කරන්න"
+      (vi) "Sao chép"
+      (kk) "Көшіру"
+      (mk) "Копирај"
+      (sk) "Kopírovať"
+      (uk) "Скопіювати"
+      (el) "Αντιγραφή"
+      (gl) "Copiar"
+      (ml) "പകർത്തുക"
+      (nl) "Kopiëren"
+      (pl) "Kopiuj"
+      (sl) "Kopiraj"
+      (tl) "Kopyahin"
+      (am) "ቅዳ"
+      (km) "ចម្លង"
+      (bn) "কপি করুন"
+      (in) "Salin"
+      (kn) "ನಕಲಿಸಿ"
+      (mn) "Хуулах"
+      (ko) "복사"
+      (lo) "ສຳເນົາ"
+      (ro) "Copiați"
+      (sq) "Kopjo"
+      (ar) "نسخ"
+      (fr) "Copier"
+      (hr) "Kopiraj"
+      (mr) "कॉपी करा"
+      (or) "କପି କରନ୍ତୁ"
+      (sr) "Копирај"
+      (b+sr+Latn) "Kopiraj"
+      (tr) "Kopyala"
+      (ur) "کاپی کریں"
+      (as) "প্ৰতিলিপি কৰক"
+      (bs) "Kopiraj"
+      (cs) "Kopírovat"
+      (es) "Copiar"
+      (is) "Afrita"
+      (ms) "Salin"
+      (et) "Kopeerimine"
+      (it) "Copia"
+      (lt) "Kopijuoti"
+      (pt) "Copiar"
+      (eu) "Kopiatu"
+      (gu) "કૉપિ કરો"
+      (hu) "Másolás"
+      (ru) "Копировать"
+      (zu) "Kopisha"
+      (lv) "Kopēt"
+      (sv) "Kopiera"
+      (iw) "העתקה"
+      (sw) "Nakili"
+      (hy) "Պատճենել"
+      (ky) "Көчүрүү"
+      (my) "မိတ္တူကူးရန်"
+      (az) "Kopyalayın"
+      (uz) "Nusxa olish"
+      (en-rCA) "Copy"
+      (fr-rCA) "Copier"
+      (en-rGB) "Copy"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‎‎‎‏‏‎‏‏‏‎‎‏‏‎‎‎‎‎‎‎‏‏‎‎‏‏‎‏‏‏‏‏‎‎‏‏‎‎‏‎‎‎‏‎‎‎‏‏‎‎‎‏‏‏‎‎‏‎‎Copy‎‏‎‎‏‎"
+      (zh-rHK) "複製"
+      (zh-rCN) "复制"
+      (en-rIN) "Copy"
+      (pt-rBR) "Copiar"
+      (es-rUS) "Copiar"
+      (pt-rPT) "Copiar"
+      (en-rAU) "Copy"
+      (zh-rTW) "複製"
+    resource 0x7f0d0024 string/copy_toast_msg PUBLIC
+      () "Link copied to clipboard"
+      (ca) "S'ha copiat l'enllaç al porta-retalls"
+      (da) "Linket er kopieret til udklipsholderen"
+      (fa) "پیوند در بریده‌دان کپی شد"
+      (ja) "リンクをクリップボードにコピーしました"
+      (ka) "გაცვლის ბუფერში კოპირებული ბმული"
+      (pa) "ਲਿੰਕ ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਹੋ ਗਿਆ"
+      (ta) "கிளிப்-போர்டுக்கு இணைப்பு நகலெடுக்கப்பட்டது"
+      (nb) "Linken er kopiert til utklippstavlen"
+      (be) "Спасылка скапіравана ў буфер абмену"
+      (de) "Link in Zwischenablage kopiert"
+      (ne) "क्लिपबोर्डमा लिंक कपी गरियो"
+      (te) "క్లిప్‌బోర్డ్‌కు లింక్ కాపీ చేయబడింది"
+      (af) "Skakel is na knipbord gekopieer"
+      (bg) "Връзката е копирана в буферната памет"
+      (th) "คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว"
+      (fi) "Linkki kopioitu leikepöydälle"
+      (hi) "लिंक क्लिपबोर्ड पर कॉपी किया गया"
+      (si) "සබැඳිය පසුරු පුවරුවට පිටපත් කෙරිණි"
+      (vi) "Đã sao chép đường liên kết vào bảng nhớ tạm"
+      (kk) "Сілтеме буферге көшірілді."
+      (mk) "Линкот е копиран во привремена меморија"
+      (sk) "Odkaz bol skopírovaný do schránky"
+      (uk) "Посилання скопійовано в буфер обміну"
+      (el) "Ο σύνδεσμος αντιγράφηκε στο πρόχειρο"
+      (gl) "Copiouse a ligazón no portapapeis"
+      (ml) "ക്ലിപ്പ്‌ബോർഡിലേക്ക് ലിങ്ക് പകർത്തി"
+      (nl) "Link naar klembord gekopieerd"
+      (pl) "Link skopiowany do schowka"
+      (sl) "Povezava je kopirana v odložišče"
+      (tl) "Nakopya sa clipboard ang link"
+      (am) "አገናኝ ወደ ቅንጥብ ሰሌዳ ተቀድቷል"
+      (km) "បាន​ចម្លង​តំណ​ទៅឃ្លីបបត"
+      (bn) "লিঙ্ক ক্লিপবোর্ডে কপি করা হয়েছে"
+      (in) "Link disalin ke papan klip"
+      (kn) "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಲಿಂಕ್ ಅನ್ನು ನಕಲಿಸಲಾಗಿದೆ"
+      (mn) "Холбоосыг түр санах ойд хуулсан"
+      (ko) "클립보드에 링크 복사됨"
+      (lo) "ສຳເນົາລິ້ງໃສ່ຄລິບບອດແລ້ວ"
+      (ro) "Linkul a fost copiat în clipboard"
+      (sq) "Lidhja u kopjua në kujtesën e fragmenteve"
+      (ar) "تم نسخ الرابط إلى الحافظة."
+      (fr) "Lien copié dans le presse-papiers"
+      (hr) "Veza je kopirana u međuspremnik"
+      (mr) "लिंक क्लिपबोर्डवर कॉपी केली"
+      (or) "ଲିଙ୍କକୁ କ୍ଲିପ୍‍‍ବୋର୍ଡରେ କପି କରାଯାଇଛି"
+      (sr) "Линк је копиран у привремену меморију"
+      (b+sr+Latn) "Link je kopiran u privremenu memoriju"
+      (tr) "Bağlantı panoya kopyalandı"
+      (ur) "لنک کلپ بورڈ پر کاپی ہو گیا"
+      (as) "লিংক ক্লিপব’ৰ্ডত প্ৰতিলিপি কৰা হ’ল"
+      (bs) "Link je kopiran u međumemoriju"
+      (cs) "Odkaz zkopírován do schránky"
+      (es) "Enlace copiado en el portapapeles"
+      (is) "Tengill afritaður á klippiborð"
+      (ms) "Pautan disalin ke papan keratan"
+      (et) "Link kopeeriti lõikelauale"
+      (it) "Link copiato negli appunti"
+      (lt) "Nuoroda nukopijuota į iškarpinę"
+      (pt) "Link copiado para a área de transferência"
+      (eu) "Arbelean kopiatu da esteka"
+      (gu) "ક્લિપબોર્ડ પર લિંક કૉપિ કરી"
+      (hu) "Link vágólapra másolva"
+      (ru) "Ссылка скопирована в буфер обмена."
+      (zu) "Isixhumanisi sikopishelwe ku-clipboard"
+      (lv) "Saite ir kopēta starpliktuvē."
+      (sv) "Länk kopierad till Urklipp"
+      (iw) "הקישור הועתק ללוח"
+      (sw) "Imenakili kiungo kwenye ubao wa kunakili"
+      (hy) "Հղումը պատճենվեց սեղմատախտակին"
+      (ky) "Шилтеме буферге көчүрүлдү"
+      (my) "လင့်ခ်ကို ကလစ်ဘုတ်သို့ ကူးပြီးပါပြီ"
+      (az) "Link buferə kopyalandı"
+      (uz) "Havoladan vaqtinchalik xotiraga nusxa olindi"
+      (en-rCA) "Link copied to clipboard"
+      (fr-rCA) "Lien copié dans le presse-papiers"
+      (en-rGB) "Link copied to clipboard"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‏‎‏‎‎‎‎‎‎‏‎‎‎‎‎‏‎‏‎‏‎‏‏‎‏‏‎‏‎‎‏‏‏‎‏‏‏‎‎‏‏‏‎‏‎‏‏‎‎‎‏‏‏‏‏‏‎‎Link copied to clipboard‎‏‎‎‏‎"
+      (zh-rHK) "連結已複製到剪貼簿"
+      (zh-rCN) "链接已复制到剪贴板"
+      (en-rIN) "Link copied to clipboard"
+      (pt-rBR) "Link copiado para a área de transferência"
+      (es-rUS) "Se copió el vínculo al portapapeles"
+      (pt-rPT) "Link copiado para a área de transferência."
+      (en-rAU) "Link copied to clipboard"
+      (zh-rTW) "已將連結複製到剪貼簿"
+    resource 0x7f0d0026 string/fallback_menu_item_copy_link PUBLIC
+      () "Copy link"
+      (ca) "Copia l'enllaç"
+      (da) "Kopiér link"
+      (fa) "کپی پیوند"
+      (ja) "リンクをコピー"
+      (ka) "ბმულის კოპირება"
+      (pa) "ਲਿੰਕ ਕਾਪੀ ਕਰੋ"
+      (ta) "இணைப்பை நகலெடு"
+      (nb) "Kopiér linken"
+      (be) "Скапіраваць спасылку"
+      (de) "Link kopieren"
+      (ne) "लिंक कपी गर्नुहोस्"
+      (te) "లింక్‌ను కాపీ చేయండి"
+      (af) "Kopieer skakel"
+      (bg) "Копиране на връзката"
+      (th) "คัดลอกลิงก์"
+      (fi) "Kopioi linkki"
+      (hi) "लिंक कॉपी करें"
+      (si) "සබැඳිය පිටපත් කරන්න"
+      (vi) "Sao chép đường liên kết"
+      (kk) "Сілтемені көшіру"
+      (mk) "Копирај го линкот"
+      (sk) "Kopírovať odkaz"
+      (uk) "Копіювати посилання"
+      (el) "Αντιγραφή συνδέσμου"
+      (gl) "Copiar ligazón"
+      (ml) "ലിങ്ക് പകർത്തുക"
+      (nl) "Link kopiëren"
+      (pl) "Kopiuj link"
+      (sl) "Kopiraj povezavo"
+      (tl) "Kopyahin ang link"
+      (am) "አገናኝ ቅዳ"
+      (km) "ចម្លង​តំណ"
+      (bn) "লিঙ্ক কপি করুন"
+      (in) "Salin link"
+      (kn) "ಲಿಂಕ್ ನಕಲಿಸಿ"
+      (mn) "Холбоосыг хуулах"
+      (ko) "링크 복사"
+      (lo) "ສຳເນົາລິ້ງ"
+      (ro) "Copiază linkul"
+      (sq) "Kopjo lidhjen"
+      (ar) "نسخ الرابط"
+      (fr) "Copier le lien"
+      (hr) "Kopiraj vezu"
+      (mr) "लिंक कॉपी करा"
+      (or) "ଲିଙ୍କ୍ କପି କରନ୍ତୁ"
+      (sr) "Копирај линк"
+      (b+sr+Latn) "Kopiraj link"
+      (tr) "Bağlantıyı kopyala"
+      (ur) "لنک کاپی کریں"
+      (as) "লিংক প্ৰতিলিপি কৰক"
+      (bs) "Kopiraj link"
+      (cs) "Kopírovat odkaz"
+      (es) "Copiar enlace"
+      (is) "Afrita tengil"
+      (ms) "Salin pautan"
+      (et) "Kopeeri link"
+      (it) "Copia link"
+      (lt) "Kopijuoti nuorodą"
+      (pt) "Copiar link"
+      (eu) "Kopiatu esteka"
+      (gu) "લિંક કૉપિ કરો"
+      (hu) "Link másolása"
+      (ru) "Копировать ссылку"
+      (zu) "Kopisha isixhumanisi"
+      (lv) "Kopēt saiti"
+      (sv) "Kopiera länk"
+      (iw) "העתקת הקישור"
+      (sw) "Nakili kiungo"
+      (hy) "Պատճենել հղումը"
+      (ky) "Шилтемени көчүрүү"
+      (my) "လင့်ခ်ကို ကူးယူရန်"
+      (az) "Linki kopyalayın"
+      (uz) "Havoladan nusxa olish"
+      (en-rCA) "Copy link"
+      (fr-rCA) "Copier le lien"
+      (en-rGB) "Copy link"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‏‏‏‎‏‏‎‎‎‎‎‏‏‏‏‏‏‎‏‏‏‏‎‏‎‏‏‎‏‏‏‏‎‏‏‎‎‏‎‏‏‎‎‎‏‏‎‎‎‎‏‏‎‏‎‏‎‏‏‎Copy link‎‏‎‎‏‎"
+      (zh-rHK) "複製連結"
+      (zh-rCN) "复制链接"
+      (en-rIN) "Copy link"
+      (pt-rBR) "Copiar link"
+      (es-rUS) "Copiar vínculo"
+      (pt-rPT) "Copiar link"
+      (en-rAU) "Copy link"
+      (zh-rTW) "複製連結"
+    resource 0x7f0d0027 string/fallback_menu_item_open_in_browser PUBLIC
+      () "Open in browser"
+      (ca) "Obre al navegador"
+      (da) "Åbn i browser"
+      (fa) "بازکردن در مرورگر"
+      (ja) "ブラウザで開く"
+      (ka) "ბრაუზერში გახსნა"
+      (pa) "ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+      (ta) "உலாவியில் திற"
+      (nb) "Åpne i nettleseren"
+      (be) "Адкрыць у браўзеры"
+      (de) "Im Browser öffnen"
+      (ne) "ब्राउजरमा खोल्नुहोस्"
+      (te) "బ్రౌజర్‌లో తెరువు"
+      (af) "Maak in blaaier oop"
+      (bg) "Отваряне в браузър"
+      (th) "เปิดในเบราว์เซอร์"
+      (fi) "Avaa selaimessa"
+      (hi) "ब्राउज़र में खोलें"
+      (si) "බ්‍රව්සරයේ විවෘත කරන්න"
+      (vi) "Mở trong trình duyệt"
+      (kk) "Браузерден ашу"
+      (mk) "Отвори во прелистувач"
+      (sk) "Otvoriť v prehliadači"
+      (uk) "Відкрити у вебпереглядачі"
+      (el) "Άνοιγμα σε πρόγραμμα περιήγησης"
+      (gl) "Abrir no navegador"
+      (ml) "ബ്രൗസറിൽ തുറക്കുക"
+      (nl) "Openen in browser"
+      (pl) "Otwórz w przeglądarce"
+      (sl) "Odpri v brskalniku"
+      (tl) "Buksan sa browser"
+      (am) "በአሳሽ ውስጥ ክፈት"
+      (km) "បើក​នៅក្នុង​កម្មវិធី​រុករកតាម​អ៊ីនធឺណិត"
+      (bn) "ব্রাউজারে খুলুন"
+      (in) "Buka di browser"
+      (kn) "ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+      (mn) "Хөтчид нээх"
+      (ko) "브라우저에서 열기"
+      (lo) "ເປີດໃນໂປຣແກຣມທ່ອງເວັບ"
+      (ro) "Deschide în browser"
+      (sq) "Hape në shfletues"
+      (ar) "فتح في المتصفح"
+      (fr) "Ouvrir dans un navigateur"
+      (hr) "Otvori u pregledniku"
+      (mr) "ब्राउझरमध्ये उघडा"
+      (or) "ବ୍ରାଉଜର୍‌ରେ ଖୋଲନ୍ତୁ"
+      (sr) "Отвори у прегледачу"
+      (b+sr+Latn) "Otvori u pregledaču"
+      (tr) "Tarayıcıda aç"
+      (ur) "براؤزر میں کھولیں"
+      (as) "ব্ৰাউজাৰত খোলক"
+      (bs) "Otvori u pregledniku"
+      (cs) "Otevřít v prohlížeči"
+      (es) "Abrir en el navegador"
+      (is) "Opna í vafra"
+      (ms) "Buka dalam penyemak imbas"
+      (et) "Ava brauseris"
+      (it) "Apri nel browser"
+      (lt) "Atidaryti naršyklėje"
+      (pt) "Abrir no navegador"
+      (eu) "Ireki arakatzailean"
+      (gu) "બ્રાઉઝરમાં ખોલો"
+      (hu) "Megnyitás böngészőben"
+      (ru) "Открыть в браузере"
+      (zu) "Vula kusiphequluli"
+      (lv) "Atvērt pārlūkprogrammā"
+      (sv) "Öppna i webbläsaren"
+      (iw) "פתיחה בדפדפן"
+      (sw) "Fungua katika kivinjari"
+      (hy) "Բացել դիտարկիչում"
+      (ky) "Серепчиден ачуу"
+      (my) "ဘရောင်ဇာတွင် ဖွင့်ရန်"
+      (az) "Brauzerdə açın"
+      (uz) "Brauzerda ochish"
+      (en-rCA) "Open in browser"
+      (fr-rCA) "Ouvrir dans le navigateur"
+      (en-rGB) "Open in browser"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‏‏‎‏‎‏‏‏‏‎‎‎‎‏‎‎‏‏‎‏‎‏‏‏‎‎‎‏‏‎‎‎‏‏‏‎‎‏‎‏‎‏‎‏‏‎‎‏‏‏‎‎‎‏‎‏‎‏‎Open in browser‎‏‎‎‏‎"
+      (zh-rHK) "在瀏覽器中開啟"
+      (zh-rCN) "在浏览器中打开"
+      (en-rIN) "Open in browser"
+      (pt-rBR) "Abrir no navegador"
+      (es-rUS) "Abrir en el navegador"
+      (pt-rPT) "Abrir no navegador"
+      (en-rAU) "Open in browser"
+      (zh-rTW) "在瀏覽器中開啟"
+    resource 0x7f0d0028 string/fallback_menu_item_share_link PUBLIC
+      () "Share link"
+      (ca) "Comparteix l'enllaç"
+      (da) "Del link"
+      (fa) "هم‌رسانی پیوند"
+      (ja) "リンクの共有"
+      (ka) "ბმულის გაზიარება"
+      (pa) "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ"
+      (ta) "இணைப்பைப் பகிர்"
+      (nb) "Del link"
+      (be) "Абагуліць спасылку"
+      (de) "Link teilen"
+      (ne) "लिंक सेयर गर्नुहोस्"
+      (te) "లింక్‌ను షేర్ చేయండి"
+      (af) "Deel skakel"
+      (bg) "Споделяне на връзката"
+      (th) "แชร์ลิงก์"
+      (fi) "Jaa linkki"
+      (hi) "लिंक शेयर करें"
+      (si) "සබැඳිය බෙදා ගන්න"
+      (vi) "Chia sẻ đường liên kết"
+      (kk) "Сілтемені бөлісу"
+      (mk) "Сподели линк"
+      (sk) "Zdieľať odkaz"
+      (uk) "Надіслати посилання"
+      (el) "Κοινοποίηση συνδέσμου"
+      (gl) "Compartir ligazón"
+      (ml) "ലിങ്ക് പങ്കിടുക"
+      (nl) "Link delen"
+      (pl) "Udostępnij link"
+      (sl) "Deli povezavo"
+      (tl) "Ibahagi ang link"
+      (am) "አገናኝ አጋራ"
+      (km) "តំណចែករំលែក"
+      (bn) "লিঙ্ক শেয়ার করুন"
+      (in) "Bagikan link"
+      (kn) "ಲಿಂಕ್ ಹಂಚಿರಿ"
+      (mn) "Холбоосыг хуваалцах"
+      (ko) "링크 공유"
+      (lo) "ແບ່ງປັນລິ້ງ"
+      (ro) "Trimite linkul"
+      (sq) "Ndaj lidhjen"
+      (ar) "مشاركة الرابط"
+      (fr) "Partager le lien"
+      (hr) "Podijeli vezu"
+      (mr) "लिंक शेअर करा"
+      (or) "ଲିଙ୍କ୍ ସେୟାର୍ କରନ୍ତୁ"
+      (sr) "Дели линк"
+      (b+sr+Latn) "Deli link"
+      (tr) "Bağlantıyı paylaş"
+      (ur) "لنک کا اشتراک کریں"
+      (as) "লিংক শ্বেয়াৰ কৰক"
+      (bs) "Dijeli link"
+      (cs) "Sdílet odkaz"
+      (es) "Compartir enlace"
+      (is) "Deila tengli"
+      (ms) "Kongsi pautan"
+      (et) "Jaga linki"
+      (it) "Condividi link"
+      (lt) "Bendrinti nuorodą"
+      (pt) "Compartilhar link"
+      (eu) "Partekatu esteka"
+      (gu) "લિંક શેર કરો"
+      (hu) "Link megosztása"
+      (ru) "Отправить ссылку"
+      (zu) "Yabelana ngesixhumanisi"
+      (lv) "Kopīgot saiti"
+      (sv) "Dela länk"
+      (iw) "לשיתוף הקישור"
+      (sw) "Shiriki kiungo"
+      (hy) "Կիսվել հղումով"
+      (ky) "Шилтемени бөлүшүү"
+      (my) "လင့်ခ်ကို မျှဝေရန်"
+      (az) "Linki paylaşın"
+      (uz) "Havolani ulashish"
+      (en-rCA) "Share link"
+      (fr-rCA) "Partager le lien"
+      (en-rGB) "Share link"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‎‎‏‏‎‎‏‎‏‎‎‏‏‎‏‏‏‎‎‎‎‏‎‎‏‏‎‏‎‏‎‎‎‏‏‏‏‎‏‏‎‏‎‏‎‎‏‏‏‏‏‎‎‎‎‎‎‏‎‎‎Share link‎‏‎‎‏‎"
+      (zh-rHK) "分享連結"
+      (zh-rCN) "分享链接"
+      (en-rIN) "Share link"
+      (pt-rBR) "Compartilhar link"
+      (es-rUS) "Compartir vínculo"
+      (pt-rPT) "Partilhar link"
+      (en-rAU) "Share link"
+      (zh-rTW) "分享連結"
+    resource 0x7f0d0029 string/not_set PUBLIC
+      () "Not set"
+      (ca) "No definit"
+      (da) "Ikke angivet"
+      (fa) "تنظیم نشده"
+      (ja) "未設定"
+      (ka) "არ არის დაყენებული"
+      (pa) "ਸੈੱਟ ਨਹੀਂ ਹੈ"
+      (ta) "அமைக்கப்படவில்லை"
+      (nb) "Ikke angitt"
+      (be) "Не зададзена"
+      (de) "Nicht festgelegt"
+      (ne) "सेट गरिएको छैन"
+      (te) "సెట్ చేయలేదు"
+      (af) "Nie gestel nie"
+      (bg) "Не е зададено"
+      (th) "ไม่ได้ตั้งค่า"
+      (fi) "Ei asetettu"
+      (hi) "सेट नहीं है"
+      (si) "සකසා නැත"
+      (vi) "Chưa đặt"
+      (kk) "Орнатылмаған"
+      (mk) "Не е поставено"
+      (sk) "Nenastavené"
+      (uk) "Не налаштовано"
+      (el) "Δεν έχει οριστεί"
+      (gl) "Sen configurar"
+      (ml) "സജ്ജീകരിച്ചിട്ടില്ല"
+      (nl) "Niet ingesteld"
+      (pl) "Nie ustawiono"
+      (sl) "Ni nastavljeno"
+      (tl) "Hindi nakatakda"
+      (am) "አልተዘጋጀም"
+      (km) "មិនបានកំណត់"
+      (bn) "সেট করা হয়নি"
+      (in) "Belum disetel"
+      (kn) "ಹೊಂದಿಸಿಲ್ಲ"
+      (mn) "Тохируулаагүй"
+      (ko) "설정되지 않음"
+      (lo) "ບໍ່ໄດ້ຕັ້ງຄ່າ"
+      (ro) "Nesetată"
+      (sq) "Nuk është caktuar"
+      (ar) "لم يتمّ تحديد قيمة."
+      (fr) "Non définie"
+      (hr) "Nije postavljeno"
+      (mr) "सेट केलेले नाही"
+      (or) "ସେଟ୍ ହୋଇନାହିଁ"
+      (sr) "Није подешено"
+      (b+sr+Latn) "Nije podešeno"
+      (tr) "Ayarlanmadı"
+      (ur) "سیٹ نہیں ہے"
+      (as) "ছেট কৰা হোৱা নাই"
+      (bs) "Nije postavljeno"
+      (cs) "Nenastaveno"
+      (es) "Sin establecer"
+      (is) "Ekki stillt"
+      (ms) "Tidak ditetapkan"
+      (et) "Määramata"
+      (it) "Non impostato"
+      (lt) "Nenustatyta"
+      (pt) "Não definido"
+      (eu) "Ez da ezarri"
+      (gu) "સેટ કર્યું નથી"
+      (hu) "Nincs beállítva"
+      (ru) "Не указано"
+      (zu) "Ayisethiwe"
+      (lv) "Nav iestatīts"
+      (sv) "Inte angett"
+      (iw) "לא מוגדרת"
+      (sw) "Haijawekwa"
+      (hy) "Կարգավորված չէ"
+      (ky) "Коюлган эмес"
+      (my) "သတ်မှတ်မထားပါ"
+      (az) "Ayarlanmayıb"
+      (uz) "Tayinlanmagan"
+      (en-rCA) "Not set"
+      (fr-rCA) "Non défini"
+      (en-rGB) "Not set"
+      (en-rXC) "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‎‏‏‎‎‏‏‏‎‎‎‎‎‎‏‏‎‎‎‏‏‏‏‏‏‏‎‎‎‎‎‏‏‎‏‏‏‏‏‏‏‎‎‎‏‎‏‎‏‏‎‎‎‏‎‎‎‎‏‎Not set‎‏‎‎‏‎"
+      (zh-rHK) "未設定"
+      (zh-rCN) "未设置"
+      (en-rIN) "Not set"
+      (pt-rBR) "Não definido"
+      (es-rUS) "Sin definir"
+      (pt-rPT) "Não definido"
+      (en-rAU) "Not set"
+      (zh-rTW) "未設定"
+  type style id=0e entryCount=23
+    resource 0x7f0e0004 style/Animation.AppCompat.Tooltip PUBLIC
+      () (style) size=0 parent=style/Base.Animation.AppCompat.Tooltip (0x7f0e0009)
+    resource 0x7f0e0009 style/Base.Animation.AppCompat.Tooltip PUBLIC
+      () (style) size=2 parent=0x01030000
+        0x010100b4=@anim/abc_tooltip_enter
+        0x010100b5=@anim/abc_tooltip_exit
+    resource 0x7f0e000c style/Base.TextAppearance.AppCompat PUBLIC
+      () (style) size=0 parent=0x010301ed
+    resource 0x7f0e00a2 style/LaunchTheme PUBLIC
+      () (style) size=1 parent=0x0103000d
+        0x01010054=@drawable/launch_background
+      (night) (style) size=1 parent=0x01030009
+        0x01010054=@drawable/launch_background
+    resource 0x7f0e00a3 style/NormalTheme PUBLIC
+      () (style) size=1 parent=0x0103000d
+        0x01010054=?0x01010031
+      (night) (style) size=1 parent=0x01030009
+        0x01010054=?0x01010031
+    resource 0x7f0e00ce style/RtlOverlay.Widget.AppCompat.ActionBar.TitleItem PUBLIC
+      () (style) size=2 parent=0x01030012
+        0x010100b3=0x00800013
+        0x010103b4=8.000000dp
+    resource 0x7f0e00d0 style/RtlOverlay.Widget.AppCompat.PopupMenuItem PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103b4=16.000000dp
+    resource 0x7f0e00d1 style/RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103b5=16.000000dp
+    resource 0x7f0e00d2 style/RtlOverlay.Widget.AppCompat.PopupMenuItem.Shortcut PUBLIC
+      () (style) size=2 parent=0x01030012
+        0x010103b1=6
+        0x010103b5=16.000000dp
+    resource 0x7f0e00d3 style/RtlOverlay.Widget.AppCompat.PopupMenuItem.SubmenuArrow PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103b5=8.000000dp
+    resource 0x7f0e00d4 style/RtlOverlay.Widget.AppCompat.PopupMenuItem.Text PUBLIC
+      () (style) size=2 parent=0x01030012
+        0x010103b1=5
+        0x010103bb=true
+    resource 0x7f0e00d5 style/RtlOverlay.Widget.AppCompat.PopupMenuItem.Title PUBLIC
+      () (style) size=2 parent=0x01030012
+        0x010103b1=5
+        0x010103b5=16.000000dp
+    resource 0x7f0e00d6 style/RtlOverlay.Widget.AppCompat.Search.DropDown PUBLIC
+      () (style) size=2 parent=0x01030012
+        0x010103b3=@dimen/abc_dropdownitem_text_padding_left
+        0x010103b4=4.000000dp
+    resource 0x7f0e00d7 style/RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1 PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103bb=true
+    resource 0x7f0e00d8 style/RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2 PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103b7=@id/edit_query
+    resource 0x7f0e00d9 style/RtlOverlay.Widget.AppCompat.Search.DropDown.Query PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103bc=true
+    resource 0x7f0e00db style/RtlOverlay.Widget.AppCompat.SearchView.MagIcon PUBLIC
+      () (style) size=1 parent=0x01030012
+        0x010103b5=@dimen/abc_dropdownitem_text_padding_left
+    resource 0x7f0e00de style/TextAppearance.AppCompat PUBLIC
+      () (style) size=0 parent=style/Base.TextAppearance.AppCompat (0x7f0e000c)
+    resource 0x7f0e00fa style/TextAppearance.AppCompat.Tooltip PUBLIC
+      () (style) size=2 parent=style/TextAppearance.AppCompat (0x7f0e00de)
+        0x01010095=14.000000sp
+        0x010103ac="sans-serif"
+    resource 0x7f0e010f style/TextAppearance.Compat.Notification.Info PUBLIC
+      () (style) size=0 parent=0x01030200
+    resource 0x7f0e0111 style/TextAppearance.Compat.Notification.Time PUBLIC
+      () (style) size=0 parent=0x01030202
+    resource 0x7f0e017e style/Widget.Compat.NotificationActionContainer PUBLIC
+      () (style) size=1
+        0x010100d4=@drawable/notification_action_background
+    resource 0x7f0e017f style/Widget.Compat.NotificationActionText PUBLIC
+      () (style) size=3
+        0x01010034=?0x01010207
+        0x01010095=@dimen/notification_action_text_size
+        0x01010098=@color/androidx_core_secondary_text_default_material_light
